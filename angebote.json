@@ -1,0 +1,6631 @@
+[
+  {
+    "marke": "LANDANA",
+    "produkt": "Gouda pikant",
+    "preis": "0.77",
+    "alter_preis": "1.69",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "KERRYGOLD",
+    "produkt": "Butter",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je 200-g-Becher oder 250-g-Packg."
+  },
+  {
+    "marke": "Aus eigener Herstellung",
+    "produkt": "Pfälzer Leberwurst",
+    "preis": "0.69",
+    "alter_preis": "1.39",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Dtsch. Kürbis Butternut, lose",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Dtsch. Kürbis Hokkaido, lose",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "DOVGAN",
+    "produkt": "Taschki Teigtaschen",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je 400 - 500-g-Packg."
+  },
+  {
+    "marke": "Dtsch. Buschbohnen",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.99",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "MILKA",
+    "produkt": "Schokolade",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 85 - 90-g-Tafel"
+  },
+  {
+    "marke": "SONNEN BASSERMANN",
+    "produkt": "Eintopf",
+    "preis": "1.59",
+    "alter_preis": "2.99",
+    "einheit": "je 800-g-Dose"
+  },
+  {
+    "marke": "MÜLLER",
+    "produkt": "Frucht-Buttermilch",
+    "preis": "0.79",
+    "alter_preis": "1.39",
+    "einheit": "je 500-g-Fl."
+  },
+  {
+    "marke": "BALISTO oder TWIX",
+    "produkt": "Schokoriegel",
+    "preis": "1.79",
+    "alter_preis": "2.99",
+    "einheit": "je 5 - 8 St. = 148 - 250-g-Packg."
+  },
+  {
+    "marke": "NESQUIK",
+    "produkt": "Getränkepulver",
+    "preis": "1.99",
+    "alter_preis": "3.29",
+    "einheit": "je 350-g-Beutel"
+  },
+  {
+    "marke": "MERCI",
+    "produkt": "Vielfalt",
+    "preis": "2.79",
+    "alter_preis": "4.61",
+    "einheit": "je 210 - 250-g-Packg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Schweinebauchscheiben",
+    "preis": "3.99",
+    "alter_preis": "6.49",
+    "einheit": "je 600-g-Packg."
+  },
+  {
+    "marke": "RAMA",
+    "produkt": "Sooo buttrig!",
+    "preis": "1.11",
+    "alter_preis": "1.79",
+    "einheit": "je 225-g-Packg."
+  },
+  {
+    "marke": "MARS oder SNICKERS",
+    "produkt": "Ice Cream",
+    "preis": "2.22",
+    "alter_preis": "3.49",
+    "einheit": "je 5 St. = 247,5 - 251,5-ml-Packg."
+  },
+  {
+    "marke": "LINDT",
+    "produkt": "Lindor Kugeln",
+    "preis": "4.44",
+    "alter_preis": "6.99",
+    "einheit": "je 136 - 137-g-Packg."
+  },
+  {
+    "marke": "MANNER",
+    "produkt": "Waffel-Schnitten",
+    "preis": "2.39",
+    "alter_preis": "3.79",
+    "einheit": "je 300 - 400-g-Beutel"
+  },
+  {
+    "marke": "Ital./span.Tafeltrauben, hell",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.49",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Südafrik. Passionsfrucht",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.49",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "WILTMANN",
+    "produkt": "Salami",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 50 - 80-g-Packg."
+  },
+  {
+    "marke": "KIRI",
+    "produkt": "Mit Sahne",
+    "preis": "2.79",
+    "alter_preis": "3.99",
+    "einheit": "je 10 St. = 180-g-Packg."
+  },
+  {
+    "marke": "NOA",
+    "produkt": "Veganer Brotaufstrich",
+    "preis": "1.79",
+    "alter_preis": "2.39",
+    "einheit": "je 175-g-Becher"
+  },
+  {
+    "marke": "HELLMANN'S",
+    "produkt": "Real Mayo",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je 250-ml-Fl."
+  },
+  {
+    "marke": "7 DAYS",
+    "produkt": "Croissants",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 4 St. = 240-g-Packg."
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Salat-Krönung",
+    "preis": "0.99",
+    "alter_preis": "N/A",
+    "einheit": "je 5 St. = 40 - 55-g-Packg."
+  },
+  {
+    "marke": "BALISTO oder TWIX",
+    "produkt": "Schokoriegel",
+    "preis": "1.79",
+    "alter_preis": "2.99",
+    "einheit": "je 5 - 8 St. = 148 - 250-g-Packg."
+  },
+  {
+    "marke": "HITSCHIES",
+    "produkt": "Hitschies",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 200 - 210-g-Packg."
+  },
+  {
+    "marke": "NUTELLA",
+    "produkt": "Biscuits",
+    "preis": "2.79",
+    "alter_preis": "3.49",
+    "einheit": "je 304-g-Packg."
+  },
+  {
+    "marke": "MAYBACH",
+    "produkt": "Qualitätswein oder Alkoholfrei",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "PURINA ONE",
+    "produkt": "Katzennahrung",
+    "preis": "2.99",
+    "alter_preis": "3.95",
+    "einheit": "je 750-g-Beutel"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Tischleuchte",
+    "preis": "12.99",
+    "alter_preis": "12.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Drehschlagschrauber 20 V »PASSK 20-Li C4«",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Overshirt",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Rucksack",
+    "preis": "22.99",
+    "alter_preis": "UVP 39.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Laubsauger/-bläser 40 V »PLSBA 40-Li A1« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "DOVGAN",
+    "produkt": "Taschki Teigtaschen",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je 400 - 500-g-Packg."
+  },
+  {
+    "marke": "YFOOD",
+    "produkt": "This is Food Trinkmahlzeit",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 0,5-l-Fl."
+  },
+  {
+    "marke": "VOLVIC",
+    "produkt": "Touch oder Tee",
+    "preis": "1.19",
+    "alter_preis": "N/A",
+    "einheit": "je 1,5-l-PET-Fl."
+  },
+  {
+    "marke": "MUMM",
+    "produkt": "Jahrgangssekt",
+    "preis": "3.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "Ital./span.Tafeltrauben, hell",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.49",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Niederl. Rispentomaten, lose",
+    "produkt": "",
+    "preis": "1.49",
+    "alter_preis": "1.89",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Dtsch. Tafeläpfel XXL",
+    "produkt": "",
+    "preis": "4.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 5-kg-Karton"
+  },
+  {
+    "marke": "Dtsch. Zwetschgen, lose",
+    "produkt": "",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Peruan. Kulturheidelbeeren",
+    "produkt": "",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 125-g-Schale"
+  },
+  {
+    "marke": "Peruan./südafrik. Avocado, lose",
+    "produkt": "",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Dtsch. Speisekartoffeln XXL",
+    "produkt": "",
+    "preis": "1.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 5-kg-Sack"
+  },
+  {
+    "marke": "Dtsch. Zwiebeln XXL",
+    "produkt": "",
+    "preis": "2.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 5-kg-Sack"
+  },
+  {
+    "marke": "Dtsch. Möhren XXL",
+    "produkt": "",
+    "preis": "1.49*",
+    "alter_preis": "N/A",
+    "einheit": "je 3-kg-Beutel"
+  },
+  {
+    "marke": "Dtsch. Lauchzwiebeln",
+    "produkt": "",
+    "preis": "0.49",
+    "alter_preis": "0.59",
+    "einheit": "je Bund"
+  },
+  {
+    "marke": "Dtsch. Radieschen",
+    "produkt": "",
+    "preis": "0.49",
+    "alter_preis": "0.59",
+    "einheit": "je Bund"
+  },
+  {
+    "marke": "Dtsch. Rettich weiß, lose",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.49",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Dtsch. Rotkohl, lose",
+    "produkt": "",
+    "preis": "0.79",
+    "alter_preis": "0.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Dtsch. Weißkohl, lose",
+    "produkt": "",
+    "preis": "0.79",
+    "alter_preis": "0.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Dtsch. Buschbohnen",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.99",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Dtsch. Chicoree",
+    "produkt": "",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Marokk. Miniromatomaten",
+    "produkt": "",
+    "preis": "1.59",
+    "alter_preis": "1.99",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Ägypt./südafrik. Süßkartoffeln, lose",
+    "produkt": "",
+    "preis": "1.69",
+    "alter_preis": "2.29",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Rosen-Chrysanthemenstrauß",
+    "produkt": "",
+    "preis": "12.99*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Blühpflanzen",
+    "produkt": "",
+    "preis": "1.99*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Blühpflanzen",
+    "produkt": "",
+    "preis": "2.69*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Orchidee",
+    "produkt": "",
+    "preis": "8.88*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Blühpflanzen",
+    "produkt": "",
+    "preis": "2.49*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Herbstpflanzen",
+    "produkt": "",
+    "preis": "2.49*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Herbstpflanzen",
+    "produkt": "",
+    "preis": "1.99*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Herbstpflanzen",
+    "produkt": "",
+    "preis": "2.22*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Chrysanthemen Busch XL",
+    "produkt": "",
+    "preis": "4.99*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Chrysanthemen Busch XXL",
+    "produkt": "",
+    "preis": "8.88*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Poln./dtsch. Kulturchampignons, weiß",
+    "produkt": "",
+    "preis": "1.00*",
+    "alter_preis": "N/A",
+    "einheit": "je 250-g-Schale"
+  },
+  {
+    "marke": "Span. Granatapfel, lose",
+    "produkt": "",
+    "preis": "1.00",
+    "alter_preis": "1.49",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Dtsch. Cocktailrispentomaten",
+    "produkt": "",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 350-g-Packg."
+  },
+  {
+    "marke": "Dtsch. Kürbis, lose",
+    "produkt": "",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Schweinehackfleisch",
+    "preis": "2.22",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Kasseler Nacken/Kamm XXL",
+    "preis": "6.29",
+    "alter_preis": "8.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-PURLAND Schnelle Küche",
+    "produkt": "Geschnetzeltes Ungar. Art",
+    "preis": "3.33*",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Dicke Rippe/Brustrippe vom Schwein",
+    "preis": "5.29",
+    "alter_preis": "6.29",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Schweinefilet am Stück",
+    "preis": "8.99",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Schlemmerbraten aus dem Schweinenacken",
+    "preis": "6.99*",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "KRAMER",
+    "produkt": "Schinkenhäxle",
+    "preis": "9.49*",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Eisbein aus der Schulter gepökelt, roh",
+    "preis": "3.49",
+    "alter_preis": "4.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Fleischpaket XXL vom Schwein",
+    "preis": "5.99*",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Schweineschnitzel",
+    "preis": "3.99",
+    "alter_preis": "N/A",
+    "einheit": "je 600-g-Packg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Grobe Bratwurst",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 5 St. = 400-g-Packg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Pfeffer-Rumpsteak",
+    "preis": "16.96",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Rindergulasch",
+    "preis": "6.49",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Hähnchenflügel XXL",
+    "preis": "4.49",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Großpackg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Hähnchen-Minutenschnitzel",
+    "preis": "3.79",
+    "alter_preis": "N/A",
+    "einheit": "je 400-g-Packg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Puten-Gulasch XXL",
+    "preis": "5.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 800-g-Großpackg."
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Cevapcici XXL",
+    "preis": "3.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 600-g-Großpackg."
+  },
+  {
+    "marke": "K-BIO",
+    "produkt": "Bioland Hackfleisch gemischt",
+    "preis": "5.29",
+    "alter_preis": "5.99",
+    "einheit": "je 400-g-Packg."
+  },
+  {
+    "marke": "WIESENHOF",
+    "produkt": "Geflügelwurst",
+    "preis": "1.00",
+    "alter_preis": "1.49",
+    "einheit": "je 80 - 100-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Wurstspezialitäten",
+    "preis": "0.79",
+    "alter_preis": "N/A",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Weißwurst",
+    "preis": "2.29",
+    "alter_preis": "N/A",
+    "einheit": "je 5 St. = 300-g-Packg."
+  },
+  {
+    "marke": "TULIP",
+    "produkt": "Bacon",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je 125-g-Packg."
+  },
+  {
+    "marke": "WILTMANN",
+    "produkt": "Salami",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 50 - 80-g-Packg."
+  },
+  {
+    "marke": "OSTERMEIER",
+    "produkt": "Puten-Zwiebel-Mettwurst",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "JULISKA",
+    "produkt": "Ungar. Salami",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je 375-g-Stück"
+  },
+  {
+    "marke": "BIFI",
+    "produkt": "Carazza",
+    "preis": "2.22",
+    "alter_preis": "2.89",
+    "einheit": "je 3 St. = 120-g-Packg."
+  },
+  {
+    "marke": "FERDI FUCHS",
+    "produkt": "Mini-Würstchen",
+    "preis": "1.00",
+    "alter_preis": "1.69",
+    "einheit": "je 48 - 130-g-Packg."
+  },
+  {
+    "marke": "MEICA",
+    "produkt": "Deutschländer Würstchen",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je 6 St. = 660-g-Glas"
+  },
+  {
+    "marke": "Frenched Racks",
+    "produkt": "",
+    "preis": "14.90*",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Schweinefilet",
+    "produkt": "vom Ibéricoschwein",
+    "preis": "24.90",
+    "alter_preis": "34.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-WERTSCHÄTZE",
+    "produkt": "Schweinerücken",
+    "preis": "8.90",
+    "alter_preis": "11.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-WERTSCHÄTZE",
+    "produkt": "Kasseler Kotelett mit Knochen",
+    "preis": "8.90",
+    "alter_preis": "10.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Rinderroastbeef",
+    "produkt": "vom irischen Weideochsen",
+    "preis": "22.90",
+    "alter_preis": "32.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-WERTSCHÄTZE",
+    "produkt": "Rinderhackfleisch vom Jungbullen",
+    "preis": "11.90",
+    "alter_preis": "14.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Aus eigener Herstellung",
+    "produkt": "Krakauer",
+    "preis": "0.79",
+    "alter_preis": "1.69",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "HOUDEK",
+    "produkt": "Kabanos Klassik",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "NOTHWANG",
+    "produkt": "Honigschinken",
+    "preis": "1.99",
+    "alter_preis": "2.49",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "LANGEWIESCHE",
+    "produkt": "Putenbrust",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "ZIMMERMANN",
+    "produkt": "Allg. Bergkräuter-Schinken",
+    "preis": "1.99",
+    "alter_preis": "2.69",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "RÜGENWALDER MÜHLE",
+    "produkt": "Pommersche Gutsleberwurst",
+    "preis": "1.49",
+    "alter_preis": "2.19",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "BERSCHNEIDER",
+    "produkt": "Nussschinken",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Aus eigener Herstellung",
+    "produkt": "Schinkenbeißer",
+    "preis": "1.49",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Kalbsleber am Stück",
+    "produkt": "",
+    "preis": "13.90",
+    "alter_preis": "19.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Kalbsbraten",
+    "produkt": "aus der Keule",
+    "preis": "17.90",
+    "alter_preis": "26.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Norweg. Lachsfilet",
+    "produkt": "",
+    "preis": "14.99*",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "PREMIER SEAFARMERS",
+    "produkt": "Miesmuscheln",
+    "preis": "3.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Seelachsfilet",
+    "produkt": "",
+    "preis": "1.39",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Thunfischfilet",
+    "produkt": "",
+    "preis": "3.99",
+    "alter_preis": "4.99",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Regenbogenforelle",
+    "produkt": "",
+    "preis": "1.19",
+    "alter_preis": "1.69",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Scholle",
+    "produkt": "",
+    "preis": "1.49",
+    "alter_preis": "2.29",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Makrele",
+    "produkt": "",
+    "preis": "0.89",
+    "alter_preis": "1.19",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "MÖVENPICK",
+    "produkt": "Greek Style Joghurt",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je Packg. = 4 x 100-g-Becher"
+  },
+  {
+    "marke": "EHRMANN",
+    "produkt": "Almighurt",
+    "preis": "0.33",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "KINDER",
+    "produkt": "Choco fresh oder Paradiso",
+    "preis": "1.49",
+    "alter_preis": "N/A",
+    "einheit": "je 4 - 5 St. = 102,5 - 116-g-Packg."
+  },
+  {
+    "marke": "MILCH-SCHNITTE",
+    "produkt": "Snack",
+    "preis": "2.22",
+    "alter_preis": "N/A",
+    "einheit": "je 10 St. = 280-g-Packg."
+  },
+  {
+    "marke": "MÜLLER",
+    "produkt": "Doppel-Decker oder Wackelpudding",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 4 x 125-g-Becher"
+  },
+  {
+    "marke": "LANDLIEBE",
+    "produkt": "Pudding",
+    "preis": "0.49",
+    "alter_preis": "0.99",
+    "einheit": "je 150 - 225-g-Becher"
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "High Protein",
+    "preis": "2.00",
+    "alter_preis": "2.59",
+    "einheit": "je 400-g-Becher"
+  },
+  {
+    "marke": "EMMI",
+    "produkt": "Caffè Latte",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 230-ml-Becher"
+  },
+  {
+    "marke": "KERRYGOLD",
+    "produkt": "Butter",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je 200-g-Becher oder 250-g-Packg."
+  },
+  {
+    "marke": "EHRMANN",
+    "produkt": "Robby Früchte-Quark",
+    "preis": "1.11",
+    "alter_preis": "1.29",
+    "einheit": "je 6 x 50-g-Becher"
+  },
+  {
+    "marke": "OATLY",
+    "produkt": "Haferdrink",
+    "preis": "1.69",
+    "alter_preis": "2.55",
+    "einheit": "je 1-l-Packg."
+  },
+  {
+    "marke": "SALAKIS",
+    "produkt": "Schafskäse oder Feta",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 150 - 180-g-Packg."
+  },
+  {
+    "marke": "GRECO",
+    "produkt": "Feta g. U.",
+    "preis": "1.99",
+    "alter_preis": "2.89",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "GAZI",
+    "produkt": "Grill- und Pfannenkäse",
+    "preis": "2.00",
+    "alter_preis": "3.39",
+    "einheit": "je 2 x 100-g-Packg."
+  },
+  {
+    "marke": "KIRI",
+    "produkt": "Mit Sahne",
+    "preis": "2.79",
+    "alter_preis": "3.99",
+    "einheit": "je 10 St. = 180-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Sandwichscheiben",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "MILRAM",
+    "produkt": "Schnittkäse",
+    "preis": "1.49",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "RÜCKER",
+    "produkt": "Alt-Mecklenburger oder Alter Schwede",
+    "preis": "1.69",
+    "alter_preis": "2.19",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "MILSY VILLA BEN",
+    "produkt": "Käsezöpfe",
+    "preis": "1.49",
+    "alter_preis": "1.89",
+    "einheit": "je 80-g-Packg."
+  },
+  {
+    "marke": "EXQUISA",
+    "produkt": "Frischkäsezubereitung",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 175 - 200-g-Packg."
+  },
+  {
+    "marke": "RAMA",
+    "produkt": "Pflanzliches Streichfett",
+    "preis": "1.89*",
+    "alter_preis": "N/A",
+    "einheit": "je 725-g-Großpackg."
+  },
+  {
+    "marke": "EMMI KALTBACH",
+    "produkt": "Le Gruyère AOP",
+    "preis": "2.39",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "MILRAM",
+    "produkt": "Burlander",
+    "preis": "0.88",
+    "alter_preis": "1.89",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "ARNAUD",
+    "produkt": "Jura-Morbier AOP",
+    "preis": "1.99",
+    "alter_preis": "2.89",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "KÄSEREBELLEN",
+    "produkt": "Österr. Schnittkäse oder Hartkäse",
+    "preis": "1.99",
+    "alter_preis": "2.89",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "SCHÄRDINGER",
+    "produkt": "Bergfex oder Moosbacher",
+    "preis": "1.00",
+    "alter_preis": "1.29",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "BERGADER",
+    "produkt": "Bavaria blu oder Bonifaz",
+    "preis": "1.49",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "MARS oder SNICKERS",
+    "produkt": "Ice Cream",
+    "preis": "2.22",
+    "alter_preis": "3.49",
+    "einheit": "je 5 St. = 247,5 - 251,5-ml-Packg."
+  },
+  {
+    "marke": "HÄAGEN-DAZS",
+    "produkt": "Eiscreme",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 420 - 460-ml-Becher"
+  },
+  {
+    "marke": "IGLO",
+    "produkt": "Rahm-Spinat",
+    "preis": "1.79",
+    "alter_preis": "3.49",
+    "einheit": "je 750-g-Packg."
+  },
+  {
+    "marke": "SPREHE",
+    "produkt": "Hähnchenschnitzel",
+    "preis": "5.55",
+    "alter_preis": "6.99",
+    "einheit": "je 750-g-Beutel"
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Die Ofenfrische oder Pizza Tradizionale",
+    "preis": "2.00",
+    "alter_preis": "3.69",
+    "einheit": "je 385 - 415-g-Packg."
+  },
+  {
+    "marke": "ALMONDY",
+    "produkt": "Torte",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 400-g-Packg."
+  },
+  {
+    "marke": "SETTELE",
+    "produkt": "Eier-Spätzle »Knöpfle«",
+    "preis": "2.99",
+    "alter_preis": "3.79",
+    "einheit": "je 1-kg-Packg."
+  },
+  {
+    "marke": "MEGGLE",
+    "produkt": "Baguette",
+    "preis": "1.19",
+    "alter_preis": "1.89",
+    "einheit": "je 160-g-Packg."
+  },
+  {
+    "marke": "POPP",
+    "produkt": "Pikanter Brotaufstrich",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "NOA",
+    "produkt": "Veganer Brotaufstrich",
+    "preis": "1.79",
+    "alter_preis": "2.39",
+    "einheit": "je 175-g-Becher"
+  },
+  {
+    "marke": "HENGLEIN",
+    "produkt": "Gnocchi",
+    "preis": "1.99",
+    "alter_preis": "2.99",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "RÜGENWALDER MÜHLE",
+    "produkt": "Vegane Wurstalternative",
+    "preis": "1.00",
+    "alter_preis": "1.59",
+    "einheit": "je 80-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Kartoffelgericht",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 500 - 530-g-Packg."
+  },
+  {
+    "marke": "DEL MONTE",
+    "produkt": "Ananas",
+    "preis": "1.69",
+    "alter_preis": "2.99",
+    "einheit": "je 560-g-Dose"
+  },
+  {
+    "marke": "LUTÈCE",
+    "produkt": "Champignons",
+    "preis": "2.22",
+    "alter_preis": "2.99",
+    "einheit": "je 530-g-Glas"
+  },
+  {
+    "marke": "KÜHNE",
+    "produkt": "Rotkohl oder Apfelrotkohl",
+    "preis": "1.29",
+    "alter_preis": "2.09",
+    "einheit": "je 680-g-Glas"
+  },
+  {
+    "marke": "ORO DI PARMA",
+    "produkt": "Tomatenprodukt",
+    "preis": "2.00",
+    "alter_preis": "3.98",
+    "einheit": "je 200-g-Tube oder 400-g-Dose"
+  },
+  {
+    "marke": "MEICA",
+    "produkt": "Deutschländer Würstchen",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je 6 St. = 660-g-Glas"
+  },
+  {
+    "marke": "APPEL",
+    "produkt": "Zarte Heringsfilets",
+    "preis": "1.11",
+    "alter_preis": "N/A",
+    "einheit": "je 190 - 200-g-Dose"
+  },
+  {
+    "marke": "FOLLOWFOOD",
+    "produkt": "Makrelenfilets",
+    "preis": "1.69",
+    "alter_preis": "2.29",
+    "einheit": "je 125-g-Packg."
+  },
+  {
+    "marke": "SAUPIQUET",
+    "produkt": "Thunfisch für Pasta oder Paté",
+    "preis": "2.29",
+    "alter_preis": "3.29",
+    "einheit": "je 115 - 160-g-Dose"
+  },
+  {
+    "marke": "DELICIUS",
+    "produkt": "Pizza",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 80-g-Glas"
+  },
+  {
+    "marke": "SAUPIQUET",
+    "produkt": "Thunfisch-Salat",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 160-g-Dose"
+  },
+  {
+    "marke": "KÜHNE",
+    "produkt": "Burger-Zwiebeln",
+    "preis": "1.89",
+    "alter_preis": "2.49",
+    "einheit": "je 320-g-Glas"
+  },
+  {
+    "marke": "HENGSTENBERG",
+    "produkt": "Krautsalat",
+    "preis": "1.99",
+    "alter_preis": "2.79",
+    "einheit": "je 380-g-Glas"
+  },
+  {
+    "marke": "HENGSTENBERG",
+    "produkt": "Kimchi",
+    "preis": "2.49",
+    "alter_preis": "3.29",
+    "einheit": "je 260-g-Glas"
+  },
+  {
+    "marke": "HEINZ",
+    "produkt": "Tomato Ketchup",
+    "preis": "3.49",
+    "alter_preis": "6.49",
+    "einheit": "je 1,17-l-Fl."
+  },
+  {
+    "marke": "HELLMANN'S",
+    "produkt": "Real Mayo",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je 250-ml-Fl."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Bayer. Süßer Senf",
+    "preis": "0.79",
+    "alter_preis": "0.99",
+    "einheit": "je 250-ml-Glas"
+  },
+  {
+    "marke": "THOMY",
+    "produkt": "Delikatess-Senf",
+    "preis": "0.99",
+    "alter_preis": "1.19",
+    "einheit": "je 200-ml-Tube"
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Grillsauce",
+    "preis": "0.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Fl."
+  },
+  {
+    "marke": "ROCKY MOUNTAIN",
+    "produkt": "Marshmallows",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 300-g-Beutel"
+  },
+  {
+    "marke": "DOVGAN",
+    "produkt": "Riga-Sprotten",
+    "preis": "1.29",
+    "alter_preis": "1.79",
+    "einheit": "je 160-g-Dose"
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Röstzwiebeln",
+    "preis": "1.00",
+    "alter_preis": "1.19",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "HENGSTENBERG",
+    "produkt": "Delikatess-Essig",
+    "preis": "2.49",
+    "alter_preis": "3.89",
+    "einheit": "je 0,5-l-Fl."
+  },
+  {
+    "marke": "K-FAVOURITES",
+    "produkt": "Natives Olivenöl extra DOP",
+    "preis": "5.99",
+    "alter_preis": "7.99",
+    "einheit": "je 500-ml-Fl."
+  },
+  {
+    "marke": "MAZOLA",
+    "produkt": "Keimöl",
+    "preis": "3.49",
+    "alter_preis": "4.49",
+    "einheit": "je 750-ml-Fl."
+  },
+  {
+    "marke": "Grüne Oliven",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.19",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Apricot Peppers",
+    "produkt": "",
+    "preis": "1.59",
+    "alter_preis": "1.99",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Schinken-Käse-Croissant",
+    "produkt": "",
+    "preis": "0.59",
+    "alter_preis": "0.79",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Gyros-Snack",
+    "produkt": "",
+    "preis": "0.79*",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Pinker Donut",
+    "produkt": "",
+    "preis": "0.39*",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Laugenbrezel",
+    "produkt": "",
+    "preis": "0.25",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Ciabatta natur",
+    "produkt": "",
+    "preis": "0.55",
+    "alter_preis": "N/A",
+    "einheit": "je 300-g-Stück"
+  },
+  {
+    "marke": "Feinschmeckerkruste",
+    "produkt": "",
+    "preis": "1.29",
+    "alter_preis": "1.99",
+    "einheit": "je 620-g-Stück"
+  },
+  {
+    "marke": "Bauernbrötchen",
+    "produkt": "",
+    "preis": "0.29",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "SCHÄR",
+    "produkt": "Meisterbäckers",
+    "preis": "2.49",
+    "alter_preis": "3.25",
+    "einheit": "je 330-g-Packg."
+  },
+  {
+    "marke": "WASA",
+    "produkt": "Selection Protein+",
+    "preis": "1.99",
+    "alter_preis": "2.49",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "HARRY",
+    "produkt": "Toast",
+    "preis": "1.49",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Kleine Kuchen",
+    "preis": "1.99",
+    "alter_preis": "2.69",
+    "einheit": "je 4 x 35-g-Packg."
+  },
+  {
+    "marke": "7 DAYS",
+    "produkt": "Croissants",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 4 St. = 240-g-Packg."
+  },
+  {
+    "marke": "MAGGI",
+    "produkt": "Suppe",
+    "preis": "0.89",
+    "alter_preis": "N/A",
+    "einheit": "je Packg."
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Salat-Krönung",
+    "preis": "0.99",
+    "alter_preis": "N/A",
+    "einheit": "je 5 St. = 40 - 55-g-Packg."
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Bratenjus",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 400-g-Dose"
+  },
+  {
+    "marke": "BEN'S ORIGINAL",
+    "produkt": "Fix Sauce",
+    "preis": "1.79",
+    "alter_preis": "2.79",
+    "einheit": "je 400-g-Glas"
+  },
+  {
+    "marke": "BARILLA",
+    "produkt": "Pesto",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 190 - 200-g-Glas"
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Röstzwiebeln",
+    "preis": "1.00",
+    "alter_preis": "1.19",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "FELICETTI",
+    "produkt": "Pasta",
+    "preis": "1.00",
+    "alter_preis": "1.69",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "ZABLER",
+    "produkt": "Hochzeit Nudeln",
+    "preis": "1.00",
+    "alter_preis": "1.79",
+    "einheit": "je 250-g-Beutel"
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Nudeln",
+    "preis": "0.89",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "SCHWARTAU",
+    "produkt": "Konfitüre Extra",
+    "preis": "1.99",
+    "alter_preis": "2.69",
+    "einheit": "je 280 - 340-g-Glas"
+  },
+  {
+    "marke": "NUTELLA",
+    "produkt": "Nuss-Nugat-Creme",
+    "preis": "4.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Glas"
+  },
+  {
+    "marke": "KELLOGG'S",
+    "produkt": "Cerealien",
+    "preis": "2.22",
+    "alter_preis": "N/A",
+    "einheit": "je 400 - 500-g-Packg."
+  },
+  {
+    "marke": "KÖLLN",
+    "produkt": "Müsli",
+    "preis": "2.00",
+    "alter_preis": "3.79",
+    "einheit": "je 400 - 600-g-Packg."
+  },
+  {
+    "marke": "AURORA",
+    "produkt": "Weizenmehl Klassik Type 405",
+    "preis": "1.11",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Backmischung",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 280 - 462-g-Packg."
+  },
+  {
+    "marke": "RUF",
+    "produkt": "Backaroma",
+    "preis": "0.59",
+    "alter_preis": "0.89",
+    "einheit": "je 4 St. = 8-ml-Packg."
+  },
+  {
+    "marke": "AGASAAT",
+    "produkt": "Dampfmohn",
+    "preis": "2.22",
+    "alter_preis": "3.19",
+    "einheit": "je 200-g-Beutel"
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Haselnüsse",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Kakao zum Backen",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Seelenwärmer",
+    "preis": "0.79",
+    "alter_preis": "1.29",
+    "einheit": "je 58 - 60-g-Beutel"
+  },
+  {
+    "marke": "RUF",
+    "produkt": "Puddingpulver",
+    "preis": "0.79",
+    "alter_preis": "1.09",
+    "einheit": "je 3 x 38-g-Packg."
+  },
+  {
+    "marke": "SEEBERGER",
+    "produkt": "Datteln",
+    "preis": "2.22",
+    "alter_preis": "N/A",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "KÄGI",
+    "produkt": "Fret",
+    "preis": "1.99",
+    "alter_preis": "2.89",
+    "einheit": "je 102-g-Packg."
+  },
+  {
+    "marke": "OATLY",
+    "produkt": "Haferdrink",
+    "preis": "1.69",
+    "alter_preis": "2.55",
+    "einheit": "je 1-l-Packg."
+  },
+  {
+    "marke": "AGASAAT",
+    "produkt": "Dampfmohn",
+    "preis": "2.22",
+    "alter_preis": "3.19",
+    "einheit": "je 200-g-Beutel"
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Haselnüsse",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Kakao zum Backen",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "MELITTA",
+    "produkt": "Kaffee",
+    "preis": "6.49",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "DALLMAYR",
+    "produkt": "Home Barista Caffè Crema Dolce",
+    "preis": "14.99",
+    "alter_preis": "18.49",
+    "einheit": "je 1-kg-Packg."
+  },
+  {
+    "marke": "ILLY",
+    "produkt": "Classico",
+    "preis": "6.99",
+    "alter_preis": "8.79",
+    "einheit": "je 250-g-Dose"
+  },
+  {
+    "marke": "NESCAFÉ",
+    "produkt": "Dolce Gusto Kapseln",
+    "preis": "3.69",
+    "alter_preis": "N/A",
+    "einheit": "je 12 - 16 St. = 88 - 256-g-Packg."
+  },
+  {
+    "marke": "SCHWARTAU",
+    "produkt": "Coffee Shop Sirup",
+    "preis": "1.99",
+    "alter_preis": "2.69",
+    "einheit": "je 200-ml-Fl."
+  },
+  {
+    "marke": "GOLDMÄNNCHEN",
+    "produkt": "Kräutertee",
+    "preis": "1.19",
+    "alter_preis": "1.59",
+    "einheit": "je 25-Btl.-Packg."
+  },
+  {
+    "marke": "CHIO",
+    "produkt": "Chips",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "FONZIES",
+    "produkt": "Mais-Snack",
+    "preis": "1.29",
+    "alter_preis": "1.89",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "POM-BÄR",
+    "produkt": "Kartoffelsnacks",
+    "preis": "1.00",
+    "alter_preis": "1.79",
+    "einheit": "je 75-g-Beutel"
+  },
+  {
+    "marke": "CHIO",
+    "produkt": "Popcorn",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 120-g-Beutel"
+  },
+  {
+    "marke": "SCHÄR",
+    "produkt": "Salinis-Sticks",
+    "preis": "1.99",
+    "alter_preis": "2.69",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "SCHÄR",
+    "produkt": "Salinis-Sticks",
+    "preis": "0.99",
+    "alter_preis": "1.69",
+    "einheit": "je 75-g-Packg."
+  },
+  {
+    "marke": "TUC",
+    "produkt": "Cracker",
+    "preis": "2.00",
+    "alter_preis": "2.99",
+    "einheit": "je 3 x 100-g-Packg."
+  },
+  {
+    "marke": "MILKA",
+    "produkt": "Schokolade",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 85 - 90-g-Tafel"
+  },
+  {
+    "marke": "LINDT",
+    "produkt": "Creation",
+    "preis": "3.99",
+    "alter_preis": "5.99",
+    "einheit": "je 150-g-Tafel"
+  },
+  {
+    "marke": "LINDT",
+    "produkt": "Exquisite Vielfalt",
+    "preis": "6.99",
+    "alter_preis": "8.99",
+    "einheit": "je 125-g-Packg."
+  },
+  {
+    "marke": "VERPOORTEN",
+    "produkt": "Eierlikör-Pralinés",
+    "preis": "3.99",
+    "alter_preis": "7.95",
+    "einheit": "je 120-g-Packg."
+  },
+  {
+    "marke": "LINDT",
+    "produkt": "Lindor Kugeln",
+    "preis": "4.44",
+    "alter_preis": "6.99",
+    "einheit": "je 136 - 137-g-Packg."
+  },
+  {
+    "marke": "DAIM",
+    "produkt": "Pralinen",
+    "preis": "3.33",
+    "alter_preis": "4.99",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "ZENTIS",
+    "produkt": "Edelmarzipan-Baumstamm",
+    "preis": "0.99",
+    "alter_preis": "1.69",
+    "einheit": "je 100-g-Stück"
+  },
+  {
+    "marke": "TRUMPF",
+    "produkt": "Edle Tropfen in Nuss",
+    "preis": "1.99",
+    "alter_preis": "2.99",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "REBER",
+    "produkt": "Mozart-Kugeln",
+    "preis": "3.33",
+    "alter_preis": "5.99",
+    "einheit": "je 5 St. = 100-g-Beutel"
+  },
+  {
+    "marke": "BALISTO oder TWIX",
+    "produkt": "Schokoriegel",
+    "preis": "1.79",
+    "alter_preis": "2.99",
+    "einheit": "je 5 - 8 St. = 148 - 250-g-Packg."
+  },
+  {
+    "marke": "KNOPPERS",
+    "produkt": "Milch-Nuss-Schnitte",
+    "preis": "1.69",
+    "alter_preis": "N/A",
+    "einheit": "je 8 St. = 200-g-Packg."
+  },
+  {
+    "marke": "DUPLO",
+    "produkt": "Waffel-Schokoriegel",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 18 St. = 327,6-g-Packg."
+  },
+  {
+    "marke": "NIPPON",
+    "produkt": "Puffreis in Schokolade",
+    "preis": "1.69",
+    "alter_preis": "N/A",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "HARIBO",
+    "produkt": "Fruchtgummis oder Lakritze",
+    "preis": "0.75",
+    "alter_preis": "N/A",
+    "einheit": "je 160 - 175-g-Packg."
+  },
+  {
+    "marke": "HITSCHIES",
+    "produkt": "Hitschies",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 200 - 210-g-Packg."
+  },
+  {
+    "marke": "STORCK",
+    "produkt": "Super Dickmann's",
+    "preis": "1.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 6 St. = 168-g-Packg."
+  },
+  {
+    "marke": "MILKA",
+    "produkt": "Mini-Cookies",
+    "preis": "2.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 250-g-Packg."
+  },
+  {
+    "marke": "NUTELLA",
+    "produkt": "Biscuits",
+    "preis": "2.79",
+    "alter_preis": "3.49",
+    "einheit": "je 304-g-Packg."
+  },
+  {
+    "marke": "SCHÄR",
+    "produkt": "Chocolate O's",
+    "preis": "1.99",
+    "alter_preis": "2.99",
+    "einheit": "je 165-g-Packg."
+  },
+  {
+    "marke": "GLICO",
+    "produkt": "Mikado-Sticks",
+    "preis": "1.00",
+    "alter_preis": "1.69",
+    "einheit": "je 75-g-Packg."
+  },
+  {
+    "marke": "LEIBNIZ",
+    "produkt": "Choco",
+    "preis": "2.22",
+    "alter_preis": "3.79",
+    "einheit": "je 125-g-Packg."
+  },
+  {
+    "marke": "LAMBERTZ",
+    "produkt": "Coco-Fleur, Balena oder Divina",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 113 - 125-g-Packg."
+  },
+  {
+    "marke": "KÄGI",
+    "produkt": "Fret",
+    "preis": "1.99",
+    "alter_preis": "2.89",
+    "einheit": "je 102-g-Packg."
+  },
+  {
+    "marke": "COCA-COLA, FANTA,",
+    "produkt": "SPRITE oder MEZZO MIX Erfrischungsgetränke",
+    "preis": "10.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 12 x 1-l-PET-Fl."
+  },
+  {
+    "marke": "KROMBACHER",
+    "produkt": "Spezi",
+    "preis": "0.65",
+    "alter_preis": "N/A",
+    "einheit": "je 0,5-l-Dose"
+  },
+  {
+    "marke": "ACQUA PANNA oder",
+    "produkt": "S.PELLEGRINO Mineralwasser",
+    "preis": "0.79",
+    "alter_preis": "1.09",
+    "einheit": "je 1-l-PET-Fl."
+  },
+  {
+    "marke": "ACTIVE O2 oder ACTIVE FRESH",
+    "produkt": "Erfrischungsgetränk",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-PET-Fl."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Milder Apfel oder Multi",
+    "preis": "0.79",
+    "alter_preis": "1.59",
+    "einheit": "je 1-l-Fl."
+  },
+  {
+    "marke": "AMECKE",
+    "produkt": "Sanfte Säfte",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 1-l-Packg."
+  },
+  {
+    "marke": "AHEAD",
+    "produkt": "Zero Sugar Sirup",
+    "preis": "3.99",
+    "alter_preis": "4.99",
+    "einheit": "je 48-ml-Fl."
+  },
+  {
+    "marke": "BERENTZEN",
+    "produkt": "Fruchtiger Likör",
+    "preis": "4.99",
+    "alter_preis": "7.29",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "OUZO OF PLOMARI",
+    "produkt": "Griech. Anisspirituose",
+    "preis": "8.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "GORDON'S",
+    "produkt": "London Dry Gin oder 0.0",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "RAMAZZOTTI",
+    "produkt": "Ital. Liköre oder Arancia Alkohlfrei",
+    "preis": "8.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "NORDBRAND",
+    "produkt": "Cocktail",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "ASBACH",
+    "produkt": "Uralt",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "GLENMORANGIE",
+    "produkt": "The Original 12 Single Malt Scotch Whisky",
+    "preis": "26.99",
+    "alter_preis": "34.99",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "WZG MÖGLINGEN",
+    "produkt": "Württemberger Rebsortenwein",
+    "preis": "3.49",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "ZONIN",
+    "produkt": "Montepulciano d'Abruzzo, Bardolino o.Pinot Grigio DOC",
+    "preis": "4.99",
+    "alter_preis": "5.99",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "GALLO FAMILY",
+    "produkt": "Cabernet Sauvignon, Rosé, Zinfandel oder Chardonnay",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "MAYBACH",
+    "produkt": "Qualitätswein oder Alkoholfrei",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "MARTIN SCHONGAUER",
+    "produkt": "Grau-, Weiß- oder Spätburgunder",
+    "preis": "3.99",
+    "alter_preis": "5.49",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "MEZZACORONA",
+    "produkt": "Pinot Grigio, Merlot, Moscato oder Chardonnay",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "HENKELL",
+    "produkt": "Piccolo-Sekt",
+    "preis": "0.99",
+    "alter_preis": "1.79",
+    "einheit": "je 0,2-l-Fl."
+  },
+  {
+    "marke": "ROTKÄPPCHEN",
+    "produkt": "Secconade",
+    "preis": "1.69",
+    "alter_preis": "N/A",
+    "einheit": "je 0,33-l-Fl."
+  },
+  {
+    "marke": "STUTTGARTER HOFBRÄU",
+    "produkt": "Pilsner",
+    "preis": "11.49",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "KÄTHCHEN BIER",
+    "produkt": "Spezial",
+    "preis": "15.99",
+    "alter_preis": "19.49",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "BECK'S",
+    "produkt": "Pils oder Gold",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 24 x 0,33-l-Fl."
+  },
+  {
+    "marke": "BECK'S",
+    "produkt": "Pils oder Gold",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "MÖNCHSHOF",
+    "produkt": "Kellerbier oder Naturradler",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "HASSERÖDER",
+    "produkt": "Premium Pils",
+    "preis": "9.99",
+    "alter_preis": "16.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "KÖNIG LUDWIG",
+    "produkt": "Weissbier",
+    "preis": "12.99",
+    "alter_preis": "19.29",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "AUGUSTINERBRÄU",
+    "produkt": "Edelstoff",
+    "preis": "16.99",
+    "alter_preis": "22.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "ERDINGER BRAUHAUS",
+    "produkt": "Helles",
+    "preis": "13.99",
+    "alter_preis": "20.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "CORONA",
+    "produkt": "Extra oder Cero 0.0 %",
+    "preis": "5.99",
+    "alter_preis": "7.49",
+    "einheit": "je Packg. 6 x 0,355-l-Fl."
+  },
+  {
+    "marke": "BRAUHAUS TEGERNSEE",
+    "produkt": "Spezial",
+    "preis": "16.99",
+    "alter_preis": "20.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "DUCKSTEIN",
+    "produkt": "Rotblond Original",
+    "preis": "11.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 8 x 0,5-l-Fl."
+  },
+  {
+    "marke": "SAN MIGUEL",
+    "produkt": "Especial",
+    "preis": "11.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 24 x 0,33-l-Fl."
+  },
+  {
+    "marke": "ORIGINAL OETTINGER",
+    "produkt": "Bier oder Biermischgetränk",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "JEVER",
+    "produkt": "Pilsener",
+    "preis": "11.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 24 x 0,33-l-Fl."
+  },
+  {
+    "marke": "JEVER",
+    "produkt": "Pilsener oder Fun Alkoholfrei",
+    "preis": "11.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "JEVER",
+    "produkt": "Fun alkoholfrei",
+    "preis": "3.79",
+    "alter_preis": "4.79",
+    "einheit": "je Packg. 6 x 0,33-l-Fl."
+  },
+  {
+    "marke": "DESPERADOS",
+    "produkt": "Original",
+    "preis": "1.49",
+    "alter_preis": "2.19",
+    "einheit": "je 0,5-l-Dose"
+  },
+  {
+    "marke": "KROMBACHER",
+    "produkt": "Pils oder Radler",
+    "preis": "0.65",
+    "alter_preis": "0.95",
+    "einheit": "je 0,5-l-Dose"
+  },
+  {
+    "marke": "FAXE",
+    "produkt": "Premium",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 1-l-Dose"
+  },
+  {
+    "marke": "LEFFE",
+    "produkt": "Blonde oder Brune",
+    "preis": "4.79",
+    "alter_preis": "6.49",
+    "einheit": "je Packg. 4 x 0,33-l-Fl."
+  },
+  {
+    "marke": "RED BULL",
+    "produkt": "Energy Drink oder Erfrischungsgetränk",
+    "preis": "0.85",
+    "alter_preis": "N/A",
+    "einheit": "je 0,25 - 0,33-l-Dose"
+  },
+  {
+    "marke": "FUZE TEA",
+    "produkt": "Erfrischungsgetränk",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 1,25-l-PET-Fl."
+  },
+  {
+    "marke": "MEIN T",
+    "produkt": "Erfrischungsgetränk",
+    "preis": "0.59",
+    "alter_preis": "N/A",
+    "einheit": "je 500-ml-Packg."
+  },
+  {
+    "marke": "SUNIL",
+    "produkt": "Voll- oder Colorwaschmittel",
+    "preis": "7.50*",
+    "alter_preis": "N/A",
+    "einheit": "je 3,75-kg-Packg."
+  },
+  {
+    "marke": "KUSCHELWEICH",
+    "produkt": "Weichspüler",
+    "preis": "1.49",
+    "alter_preis": "1.95",
+    "einheit": "je 1-l-Fl."
+  },
+  {
+    "marke": "CALGON",
+    "produkt": "Wasserenthärter",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je Packg. bzw. Fl."
+  },
+  {
+    "marke": "COTTONELLE",
+    "produkt": "Feuchtes Toilettenpapier",
+    "preis": "1.00",
+    "alter_preis": "1.55",
+    "einheit": "je 42-St.-Packg."
+  },
+  {
+    "marke": "DICK & DURSTIG",
+    "produkt": "Küchentücher",
+    "preis": "2.00",
+    "alter_preis": "2.69",
+    "einheit": "je 4 x 43 Blatt"
+  },
+  {
+    "marke": "O.B.",
+    "produkt": "Tampons ProComfort",
+    "preis": "3.95",
+    "alter_preis": "N/A",
+    "einheit": "je 32 - 64-St.-Packg."
+  },
+  {
+    "marke": "CAREFREE",
+    "produkt": "Slipeinlagen",
+    "preis": "2.29",
+    "alter_preis": "2.95",
+    "einheit": "je 30 - 56-St.-Packg."
+  },
+  {
+    "marke": "DER GENERAL",
+    "produkt": "Allzweckreiniger",
+    "preis": "1.59",
+    "alter_preis": "1.95",
+    "einheit": "je 750-ml-Fl."
+  },
+  {
+    "marke": "ANTIKAL",
+    "produkt": "Kalkreiniger",
+    "preis": "2.79",
+    "alter_preis": "3.45",
+    "einheit": "je 800-ml-Fl."
+  },
+  {
+    "marke": "FAIRY",
+    "produkt": "Geschirrspülmittel",
+    "preis": "2.29",
+    "alter_preis": "2.95",
+    "einheit": "je 900-ml-Fl."
+  },
+  {
+    "marke": "WC-FRISCH",
+    "produkt": "Kraft Aktiv",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 50-g-Packg."
+  },
+  {
+    "marke": "SCHWARZKOPF",
+    "produkt": "Gliss Shampoo oder Spülung",
+    "preis": "2.29",
+    "alter_preis": "2.95",
+    "einheit": "je 200 - 250-ml-Fl."
+  },
+  {
+    "marke": "SYOSS",
+    "produkt": "Haarcoloration o. Aufheller",
+    "preis": "4.99",
+    "alter_preis": "5.75",
+    "einheit": "je Packg."
+  },
+  {
+    "marke": "NIVEA",
+    "produkt": "Tagespflege-Creme Q10",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 50-ml-Tiegel"
+  },
+  {
+    "marke": "ARONAL, ELMEX oder MERIDOL",
+    "produkt": "Zahnpasta-Doppelpack",
+    "preis": "6.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 2 x 75-ml-Packg."
+  },
+  {
+    "marke": "REXONA",
+    "produkt": "Nonstop Deo-Spray oder -Roll-on",
+    "preis": "2.22",
+    "alter_preis": "2.85",
+    "einheit": "je 50-ml-Fl. oder 150-ml-Dose"
+  },
+  {
+    "marke": "NIVEA",
+    "produkt": "Body Milk, Soft Milk oder Body Lotion",
+    "preis": "3.49",
+    "alter_preis": "4.25",
+    "einheit": "je 400-ml-Fl."
+  },
+  {
+    "marke": "DOVE",
+    "produkt": "Duschcreme »Advanced Care«",
+    "preis": "2.29",
+    "alter_preis": "2.95",
+    "einheit": "je 225-ml-Fl."
+  },
+  {
+    "marke": "8x4",
+    "produkt": "Deo-Spray",
+    "preis": "2.22",
+    "alter_preis": "2.75",
+    "einheit": "je 150-ml-Dose"
+  },
+  {
+    "marke": "DUSCHDAS",
+    "produkt": "Duschgel",
+    "preis": "2.00",
+    "alter_preis": "3.50",
+    "einheit": "je 225-ml-Fl."
+  },
+  {
+    "marke": "BAREBELLS",
+    "produkt": "Proteinriegel",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 55-g-Stück"
+  },
+  {
+    "marke": "PURINA ADVENTUROS",
+    "produkt": "Hundesnack",
+    "preis": "0.99",
+    "alter_preis": "N/A",
+    "einheit": "je 90 - 120-g-Beutel"
+  },
+  {
+    "marke": "WHISKAS",
+    "produkt": "Katzennahrung",
+    "preis": "4.00",
+    "alter_preis": "4.79",
+    "einheit": "je 12 x 85-g-Packg."
+  },
+  {
+    "marke": "PURINA ONE",
+    "produkt": "Katzennahrung",
+    "preis": "2.99",
+    "alter_preis": "3.95",
+    "einheit": "je 750-g-Beutel"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Kommode",
+    "preis": "59.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "TECHNAXX",
+    "produkt": "LED-Nachtlicht-Lautsprecher »TX-264«",
+    "preis": "19.99",
+    "alter_preis": "UVP 39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "DENVER",
+    "produkt": "BT-Lautsprecher »LBS-100«",
+    "preis": "9.99",
+    "alter_preis": "UVP 49.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Tischleuchte",
+    "preis": "12.99",
+    "alter_preis": "12.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SWITCH ON®",
+    "produkt": "Dampfglättersystem »SODGS 1630«",
+    "preis": "59.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "SHARP",
+    "produkt": "Mikrowelle »YC-PS204AE-S«",
+    "preis": "59.99",
+    "alter_preis": "UVP 119.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "BRAUN",
+    "produkt": "Zitruspresse »CJ 3000«",
+    "preis": "14.99",
+    "alter_preis": "UVP 27.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagezange",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 1 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Polyester-Acryl",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Dispersionsfarbrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Entkalker",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 19-teilig"
+  },
+  {
+    "marke": "PARKSIDE PERFORMANCE®",
+    "produkt": "2-in-1-Montage-Rollbrett",
+    "preis": "24.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku 20 V/4 Ah »PAP 20 B3«",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Teleskopratsche 1/2 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 95-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon transparent",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Riss- und Putz-Acryl",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kraft-Kugelgelenk-Satz",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagnuss-Satz »PSS 3 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Drehschlagschrauber 20 V »PASSK 20-Li C4«",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagschrauber-Adapter",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 11-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "LED-Akku-Stableuchte",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Scheibenreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "20-V-Akku 2 Ah »PAP 20 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schutzdecken-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikonfugen-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Rostfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Aufkleber-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Ölfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glaskeramik- und Edelstahlreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Flüssigreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Sanitärsilikon",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel Montage-Set",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 31-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Gipskarton-Dübel PH2",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 150-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Starter-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 12-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 12-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 8-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 8-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekeile",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 100-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 2 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 3 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Fliesen-Nivelliersystem",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 50-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 6-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Schaumstoff",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Mikrofaser",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Eckroller",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schaumstoffrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glasurrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon weiß",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekleber",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 450-g-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Acryl Express",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kleben und Abdichten",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set mit T-Griff",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 5-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schraubendreher-Satz lang",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 9-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe grau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe anthrazit",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Garagenbodenfarbe silbergrau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "KAUFLAND MOBIL",
+    "produkt": "Starterpaket",
+    "preis": "4.99",
+    "alter_preis": "9.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "EA SPORTS",
+    "produkt": "PS5-Spiel »FC 26«",
+    "preis": "74.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "EA SPORTS",
+    "produkt": "PS4-Spiel »FC 26«",
+    "preis": "74.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "SWITCH ON®",
+    "produkt": "Stirn-Fieberthermometer »SFT 88«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Kommode",
+    "preis": "59.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "SPICE&SOUL®",
+    "produkt": "Aluguss-Pfanne Ø 24 cm",
+    "preis": "9.99",
+    "alter_preis": "17.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SPICE&SOUL®",
+    "produkt": "Aluguss-Pfanne Ø 28 cm",
+    "preis": "12.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SPICE&SOUL®",
+    "produkt": "Kochtopf Ø 20 cm",
+    "preis": "9.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SPICE&SOUL®",
+    "produkt": "Kochtopf Ø 24 cm",
+    "preis": "12.99",
+    "alter_preis": "24.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SPICE&SOUL®",
+    "produkt": "Kochtopf Ø 28 cm",
+    "preis": "14.99",
+    "alter_preis": "29.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SPICE&SOUL®",
+    "produkt": "Wok-Pfanne",
+    "preis": "12.99",
+    "alter_preis": "24.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SPICE&SOUL®",
+    "produkt": "Grillpfanne",
+    "preis": "12.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "EASYMAXX",
+    "produkt": "Aufbewahrungsboxen",
+    "preis": "12.99",
+    "alter_preis": "UVP 49.99",
+    "einheit": "je 4-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagezange",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 1 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Polyester-Acryl",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Dispersionsfarbrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Entkalker",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 19-teilig"
+  },
+  {
+    "marke": "PARKSIDE PERFORMANCE®",
+    "produkt": "2-in-1-Montage-Rollbrett",
+    "preis": "24.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku 20 V/4 Ah »PAP 20 B3«",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Teleskopratsche 1/2 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 95-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon transparent",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Riss- und Putz-Acryl",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kraft-Kugelgelenk-Satz",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagnuss-Satz »PSS 3 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Drehschlagschrauber 20 V »PASSK 20-Li C4«",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagschrauber-Adapter",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 11-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "LED-Akku-Stableuchte",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Scheibenreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "20-V-Akku 2 Ah »PAP 20 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schutzdecken-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikonfugen-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Rostfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Aufkleber-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Ölfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glaskeramik- und Edelstahlreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Flüssigreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Sanitärsilikon",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel Montage-Set",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 31-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Gipskarton-Dübel PH2",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 150-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Starter-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 12-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 12-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 8-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 8-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekeile",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 100-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 2 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 3 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Fliesen-Nivelliersystem",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 50-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 6-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Schaumstoff",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Mikrofaser",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Eckroller",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schaumstoffrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glasurrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon weiß",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekleber",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 450-g-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Acryl Express",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kleben und Abdichten",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set mit T-Griff",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 5-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schraubendreher-Satz lang",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 9-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe grau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe anthrazit",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Garagenbodenfarbe silbergrau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Pyjama",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Slips",
+    "preis": "9.99",
+    "alter_preis": "UVP 32.95",
+    "einheit": "je 3-St.-Packg."
+  },
+  {
+    "marke": "UMBRO",
+    "produkt": "Damen-Slips",
+    "preis": "9.99",
+    "alter_preis": "UVP 24.95",
+    "einheit": "je 3-St.-Packg."
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Steppweste",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Longweste",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Langarmshirt",
+    "preis": "14.99",
+    "alter_preis": "UVP 29.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-T-Shirt",
+    "preis": "9.99",
+    "alter_preis": "UVP 17.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "ELLESSE",
+    "produkt": "Damen-Sweathoodie",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "NUR DIE",
+    "produkt": "Damenstrumpfhose 50 DEN, Größe 38/40",
+    "preis": "9.99",
+    "alter_preis": "UVP 14.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SKECHERS",
+    "produkt": "Sneakersocken",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 6 Paar"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Stulpensocken",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Boots",
+    "preis": "34.99",
+    "alter_preis": "UVP 79.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Sneaker »High Cut«",
+    "preis": "34.99",
+    "alter_preis": "UVP 59.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Hausschuhe",
+    "preis": "3.99",
+    "alter_preis": "N/A",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Retroboxer",
+    "preis": "12.99",
+    "alter_preis": "UVP 39.95",
+    "einheit": "je 3-St.-Packg."
+  },
+  {
+    "marke": "TOWNLAND®",
+    "produkt": "Herren-Pyjama",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Hose",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Arbeitsjacke",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "TOWNLAND®",
+    "produkt": "Herren-Lightweight-Weste",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE® PERFORMANCE",
+    "produkt": "Herren-Arbeitsbundhose",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Overshirt",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Jeans",
+    "preis": "39.99",
+    "alter_preis": "UVP 79.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-T-Shirt",
+    "preis": "9.99",
+    "alter_preis": "UVP 17.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Hemd",
+    "preis": "24.99",
+    "alter_preis": "UVP 49.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Langarmshirt",
+    "preis": "14.99",
+    "alter_preis": "UVP 29.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sweathoodie",
+    "preis": "34.99",
+    "alter_preis": "UVP 69.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sweathose",
+    "preis": "24.99",
+    "alter_preis": "UVP 59.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "ELLESSE",
+    "produkt": "Herren-Sweathoodie",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "SKECHERS",
+    "produkt": "Sneakersocken",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 6 Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sportsocken",
+    "preis": "5.99",
+    "alter_preis": "UVP 19.99",
+    "einheit": "je 4 Paar"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "S1-Sicherheitsschuhe",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Boots",
+    "preis": "34.99",
+    "alter_preis": "UVP 79.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sneaker",
+    "preis": "34.99",
+    "alter_preis": "UVP 69.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "PASSENGER",
+    "produkt": "Trolley Größe L (ca. 80 l)",
+    "preis": "29.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Rucksack",
+    "preis": "22.99",
+    "alter_preis": "UVP 39.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "PASSENGER",
+    "produkt": "Trolley Größe M (ca. 57 l)",
+    "preis": "24.99",
+    "alter_preis": "29.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PASSENGER",
+    "produkt": "Trolley Größe S (ca. 34 l)",
+    "preis": "19.99",
+    "alter_preis": "24.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Kommode",
+    "preis": "59.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Bauchschläferkissen",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Duo-Fensterrollo ca. 100 x 150 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Duo-Fensterrollo ca. 60 x 150 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Duo-Fensterrollo ca. 80 x 150 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "HIP&HOPPS®",
+    "produkt": "Kinder-Wendebettwäsche-Set",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "HIP&HOPPS®",
+    "produkt": "Kinder-Spannbettlaken",
+    "preis": "5.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Bettdecke ca. 155 x 220 cm",
+    "preis": "17.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Kopfkissen ca. 80 x 80 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Bettdecke ca. 135 x 200 cm",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Bettdecke ca. 200 x 220 cm",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "EASYMAXX",
+    "produkt": "Aufbewahrungsboxen",
+    "preis": "12.99",
+    "alter_preis": "UVP 49.99",
+    "einheit": "je 4-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Teleskopratsche 1/2 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Drehschlagschrauber 20 V »PASSK 20-Li C4«",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "LED-Akku-Stableuchte",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagezange",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 1 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Polyester-Acryl",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Dispersionsfarbrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Entkalker",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 19-teilig"
+  },
+  {
+    "marke": "PARKSIDE PERFORMANCE®",
+    "produkt": "2-in-1-Montage-Rollbrett",
+    "preis": "24.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku 20 V/4 Ah »PAP 20 B3«",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 95-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon transparent",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Riss- und Putz-Acryl",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kraft-Kugelgelenk-Satz",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagnuss-Satz »PSS 3 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagschrauber-Adapter",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 11-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Scheibenreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "20-V-Akku 2 Ah »PAP 20 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schutzdecken-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikonfugen-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Rostfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Aufkleber-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Ölfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glaskeramik- und Edelstahlreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Flüssigreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Sanitärsilikon",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel Montage-Set",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 31-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Gipskarton-Dübel PH2",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 150-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Starter-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 12-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 12-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 8-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 8-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekeile",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 100-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 2 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Zuglaschen 3 mm",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 200-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Fliesen-Nivelliersystem",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 50-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 6-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Schaumstoff",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Mikrofaser",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Eckroller",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schaumstoffrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glasurrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon weiß",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekleber",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 450-g-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Acryl Express",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kleben und Abdichten",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set mit T-Griff",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 5-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schraubendreher-Satz lang",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 9-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe grau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe anthrazit",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Garagenbodenfarbe silbergrau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "VLIPPY",
+    "produkt": "Tür- und Fensterstopper",
+    "preis": "9.99",
+    "alter_preis": "UVP 17.99",
+    "einheit": "je 2-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Laubbläser 20 V »PLBA 20-Li B3« ohne Akku",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Laubsauger/-bläser 40 V »PLSBA 40-Li A1« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Teleskop-Heckenschere 20 V »PTHSA 20-Li D5«",
+    "preis": "39.99",
+    "alter_preis": "49.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Gartenhandschuhe",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Akku-Heckenschere 20 V »PHSA 20-Li C3« ohne Akku",
+    "preis": "29.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Hochentaster 20 V »PAHE 20-Li« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Astschere 20 V »PAAS 20-Li B1« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "TECHNAXX",
+    "produkt": "Akku-Luftkompressor »TX-157«",
+    "preis": "39.99",
+    "alter_preis": "UVP 59.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "OSANN",
+    "produkt": "Kindersitz »Four360 S«",
+    "preis": "129.00",
+    "alter_preis": "UVP 229.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Leichtlauf-Motorenöl 5W-30 »Longlife III«",
+    "preis": "24.99",
+    "alter_preis": "41.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Motorenöl 15W-40 »Universal«",
+    "preis": "17.99",
+    "alter_preis": "24.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Leichtlauf-Motorenöl 10W-40 »Power«",
+    "preis": "17.99",
+    "alter_preis": "26.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "AdBlue®",
+    "preis": "4.44",
+    "alter_preis": "8.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Reifentaschen-Set 16 - 19 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Reifentaschen-Set 13 - 17 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Kfz-Batterie-Diagnosegerät »MPBDA A1«",
+    "preis": "34.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Mini-Kompressor »MPMK 10 E4«",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "WALSER",
+    "produkt": "Kfz-Verbandtasche",
+    "preis": "4.49",
+    "alter_preis": "12.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Ölpumpe 12 V »UOP 12 C1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Hydraulik-Rangierwagenheber",
+    "preis": "29.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "SWITCH ON®",
+    "produkt": "Stirn-Fieberthermometer »SFT 88«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Ital./span.Tafeltrauben, hell",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.49",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Niederl. Rispentomaten, lose",
+    "produkt": "",
+    "preis": "1.49",
+    "alter_preis": "1.89",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "NUTELLA",
+    "produkt": "Nuss-Nugat-Creme",
+    "preis": "4.99*",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Glas"
+  },
+  {
+    "marke": "BECK'S",
+    "produkt": "Pils oder Gold",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 24 x 0,33-l-Fl."
+  },
+  {
+    "marke": "BECK'S",
+    "produkt": "Pils oder Gold",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "HARIBO",
+    "produkt": "Fruchtgummis oder Lakritze",
+    "preis": "0.75",
+    "alter_preis": "N/A",
+    "einheit": "je 160 - 175-g-Packg."
+  },
+  {
+    "marke": "MILKA",
+    "produkt": "Schokolade",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 85 - 90-g-Tafel"
+  },
+  {
+    "marke": "WC-FRISCH",
+    "produkt": "Kraft Aktiv",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 50-g-Packg."
+  },
+  {
+    "marke": "POPP",
+    "produkt": "Pikanter Brotaufstrich",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Schweineschnitzel",
+    "preis": "3.99",
+    "alter_preis": "N/A",
+    "einheit": "je 600-g-Packg."
+  },
+  {
+    "marke": "MARS oder SNICKERS",
+    "produkt": "Ice Cream",
+    "preis": "2.22",
+    "alter_preis": "3.49",
+    "einheit": "je 5 St. = 247,5 - 251,5-ml-Packg."
+  },
+  {
+    "marke": "EHRMANN",
+    "produkt": "Almighurt",
+    "preis": "0.33",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "KERRYGOLD",
+    "produkt": "Butter",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je 200-g-Becher oder 250-g-Packg."
+  },
+  {
+    "marke": "MILRAM",
+    "produkt": "Schnittkäse",
+    "preis": "1.49",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "7 DAYS",
+    "produkt": "Croissants",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 4 St. = 240-g-Packg."
+  },
+  {
+    "marke": "MELITTA",
+    "produkt": "Kaffee",
+    "preis": "6.49",
+    "alter_preis": "N/A",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "LINDT",
+    "produkt": "Lindor Kugeln",
+    "preis": "4.44",
+    "alter_preis": "6.99",
+    "einheit": "je 136 - 137-g-Packg."
+  },
+  {
+    "marke": "BALISTO oder TWIX",
+    "produkt": "Schokoriegel",
+    "preis": "1.79",
+    "alter_preis": "2.99",
+    "einheit": "je 5 - 8 St. = 148 - 250-g-Packg."
+  },
+  {
+    "marke": "AMECKE",
+    "produkt": "Sanfte Säfte",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 1-l-Packg."
+  },
+  {
+    "marke": "MAYBACH",
+    "produkt": "Qualitätswein oder Alkoholfrei",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "ORIGINAL OETTINGER",
+    "produkt": "Bier oder Biermischgetränk",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "RED BULL",
+    "produkt": "Energy Drink oder Erfrischungsgetränk",
+    "preis": "0.85",
+    "alter_preis": "N/A",
+    "einheit": "je 0,25 - 0,33-l-Dose"
+  },
+  {
+    "marke": "DUPLO",
+    "produkt": "Waffel-Schokoriegel",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 18 St. = 327,6-g-Packg."
+  },
+  {
+    "marke": "Poln./dtsch. Kulturchampignons, weiß",
+    "produkt": "",
+    "preis": "1.00*",
+    "alter_preis": "N/A",
+    "einheit": "je 250-g-Schale"
+  },
+  {
+    "marke": "COTTONELLE",
+    "produkt": "Feuchtes Toilettenpapier",
+    "preis": "1.00",
+    "alter_preis": "1.55",
+    "einheit": "je 42-St.-Packg."
+  },
+  {
+    "marke": "ZABLER",
+    "produkt": "Hochzeit Nudeln",
+    "preis": "1.00",
+    "alter_preis": "1.79",
+    "einheit": "je 250-g-Beutel"
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "High Protein",
+    "preis": "2.00",
+    "alter_preis": "2.59",
+    "einheit": "je 400-g-Becher"
+  },
+  {
+    "marke": "RÜGENWALDER MÜHLE",
+    "produkt": "Vegane Wurstalternative",
+    "preis": "1.00",
+    "alter_preis": "1.59",
+    "einheit": "je 80-g-Packg."
+  },
+  {
+    "marke": "NORDBRAND",
+    "produkt": "Cocktail",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "WIESENHOF",
+    "produkt": "Geflügelwurst",
+    "preis": "1.00",
+    "alter_preis": "1.49",
+    "einheit": "je 80 - 100-g-Packg."
+  },
+  {
+    "marke": "SAUPIQUET",
+    "produkt": "Thunfisch-Salat",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 160-g-Dose"
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Kartoffelgericht",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 500 - 530-g-Packg."
+  },
+  {
+    "marke": "GLICO",
+    "produkt": "Mikado-Sticks",
+    "preis": "1.00",
+    "alter_preis": "1.69",
+    "einheit": "je 75-g-Packg."
+  },
+  {
+    "marke": "MEICA",
+    "produkt": "Deutschländer Würstchen",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je 6 St. = 660-g-Glas"
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Röstzwiebeln",
+    "preis": "1.00",
+    "alter_preis": "1.19",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "MEZZACORONA",
+    "produkt": "Pinot Grigio, Merlot, Moscato oder Chardonnay",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "HÄAGEN-DAZS",
+    "produkt": "Eiscreme",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 420 - 460-ml-Becher"
+  },
+  {
+    "marke": "MÜLLER",
+    "produkt": "Doppel-Decker oder Wackelpudding",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 4 x 125-g-Becher"
+  },
+  {
+    "marke": "KÖLLN",
+    "produkt": "Müsli",
+    "preis": "2.00",
+    "alter_preis": "3.79",
+    "einheit": "je 400 - 600-g-Packg."
+  },
+  {
+    "marke": "Dtsch. Kürbis, lose",
+    "produkt": "",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "TUC",
+    "produkt": "Cracker",
+    "preis": "2.00",
+    "alter_preis": "2.99",
+    "einheit": "je 3 x 100-g-Packg."
+  },
+  {
+    "marke": "POM-BÄR",
+    "produkt": "Kartoffelsnacks",
+    "preis": "1.00",
+    "alter_preis": "1.79",
+    "einheit": "je 75-g-Beutel"
+  },
+  {
+    "marke": "DICK & DURSTIG",
+    "produkt": "Küchentücher",
+    "preis": "2.00",
+    "alter_preis": "2.69",
+    "einheit": "je 4 x 43 Blatt"
+  },
+  {
+    "marke": "WHISKAS",
+    "produkt": "Katzennahrung",
+    "preis": "4.00",
+    "alter_preis": "4.79",
+    "einheit": "je 12 x 85-g-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Backmischung",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 280 - 462-g-Packg."
+  },
+  {
+    "marke": "CHIO",
+    "produkt": "Chips",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Sandwichscheiben",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "Span. Granatapfel, lose",
+    "produkt": "",
+    "preis": "1.00",
+    "alter_preis": "1.49",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "DUSCHDAS",
+    "produkt": "Duschgel",
+    "preis": "2.00",
+    "alter_preis": "3.50",
+    "einheit": "je 225-ml-Fl."
+  },
+  {
+    "marke": "FELICETTI",
+    "produkt": "Pasta",
+    "preis": "1.00",
+    "alter_preis": "1.69",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "CHIO",
+    "produkt": "Popcorn",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 120-g-Beutel"
+  },
+  {
+    "marke": "EXQUISA",
+    "produkt": "Frischkäsezubereitung",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 175 - 200-g-Packg."
+  },
+  {
+    "marke": "LAMBERTZ",
+    "produkt": "Coco-Fleur, Balena oder Divina",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 113 - 125-g-Packg."
+  },
+  {
+    "marke": "GAZI",
+    "produkt": "Grill- und Pfannenkäse",
+    "preis": "2.00",
+    "alter_preis": "3.39",
+    "einheit": "je 2 x 100-g-Packg."
+  },
+  {
+    "marke": "ACTIVE O2 oder ACTIVE FRESH",
+    "produkt": "Erfrischungsgetränk",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-PET-Fl."
+  },
+  {
+    "marke": "BARILLA",
+    "produkt": "Pesto",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 190 - 200-g-Glas"
+  },
+  {
+    "marke": "GALLO FAMILY",
+    "produkt": "Cabernet Sauvignon, Rosé, Zinfandel oder Chardonnay",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "FERDI FUCHS",
+    "produkt": "Mini-Würstchen",
+    "preis": "1.00",
+    "alter_preis": "1.69",
+    "einheit": "je 48 - 130-g-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Die Ofenfrische oder Pizza Tradizionale",
+    "preis": "2.00",
+    "alter_preis": "3.69",
+    "einheit": "je 385 - 415-g-Packg."
+  },
+  {
+    "marke": "JULISKA",
+    "produkt": "Ungar. Salami",
+    "preis": "4.00",
+    "alter_preis": "4.99",
+    "einheit": "je 375-g-Stück"
+  },
+  {
+    "marke": "ALMONDY",
+    "produkt": "Torte",
+    "preis": "4.00",
+    "alter_preis": "N/A",
+    "einheit": "je 400-g-Packg."
+  },
+  {
+    "marke": "ORO DI PARMA",
+    "produkt": "Tomatenprodukt",
+    "preis": "2.00",
+    "alter_preis": "3.98",
+    "einheit": "je 200-g-Tube oder 400-g-Dose"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Grobe Bratwurst",
+    "preis": "2.00",
+    "alter_preis": "N/A",
+    "einheit": "je 5 St. = 400-g-Packg."
+  },
+  {
+    "marke": "MILKA",
+    "produkt": "Schokolade",
+    "preis": "1.00",
+    "alter_preis": "1.99",
+    "einheit": "je 85 - 90-g-Tafel"
+  },
+  {
+    "marke": "POPP",
+    "produkt": "Pikanter Brotaufstrich",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Becher"
+  },
+  {
+    "marke": "WC-FRISCH",
+    "produkt": "Kraft Aktiv",
+    "preis": "1.00",
+    "alter_preis": "N/A",
+    "einheit": "je 50-g-Packg."
+  },
+  {
+    "marke": "SCHÄRDINGER",
+    "produkt": "Bergfex oder Moosbacher",
+    "preis": "1.00",
+    "alter_preis": "1.29",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "KINDER",
+    "produkt": "Schoko-Bons",
+    "preis": "2.69",
+    "alter_preis": "N/A",
+    "einheit": "je 200-g-Beutel"
+  },
+  {
+    "marke": "Aus eigener Herstellung",
+    "produkt": "Pfälzer Leberwurst",
+    "preis": "0.69",
+    "alter_preis": "1.39",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "ROUGETTE",
+    "produkt": "Grill- oder Ofenkäse",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 180-g-Packg."
+  },
+  {
+    "marke": "LANDANA",
+    "produkt": "Gouda pikant",
+    "preis": "0.77",
+    "alter_preis": "1.69",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "K-PURLAND",
+    "produkt": "Schweinebauchscheiben",
+    "preis": "3.99",
+    "alter_preis": "6.49",
+    "einheit": "je 600-g-Packg."
+  },
+  {
+    "marke": "Weltmeister-Chiabrötchen",
+    "produkt": "",
+    "preis": "0.29",
+    "alter_preis": "0.39",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Ital. Tafeltrauben, hell",
+    "produkt": "",
+    "preis": "2.22*",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Packg"
+  },
+  {
+    "marke": "Ital. Tafeltrauben, rot",
+    "produkt": "",
+    "preis": "2.22*",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Packg"
+  },
+  {
+    "marke": "Portug./marokk. Himbeeren",
+    "produkt": "",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 125-g-Schale"
+  },
+  {
+    "marke": "Südafrik. Passionsfrucht",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.49",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Dtsch./niederl. Broccoli",
+    "produkt": "",
+    "preis": "1.29",
+    "alter_preis": "1.79",
+    "einheit": "je 500-g-Packg."
+  },
+  {
+    "marke": "Dtsch. Kürbis Butternut, lose",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Dtsch. Kürbis Hokkaido, lose",
+    "produkt": "",
+    "preis": "0.99",
+    "alter_preis": "1.99",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Bockwurst",
+    "preis": "2.99",
+    "alter_preis": "3.75",
+    "einheit": "je 5 St. = 500-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Putenbrust",
+    "preis": "1.19",
+    "alter_preis": "1.49",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "DU DARFST",
+    "produkt": "Leberwurst",
+    "preis": "1.19",
+    "alter_preis": "N/A",
+    "einheit": "je 100-g-Stück"
+  },
+  {
+    "marke": "INNOCENT",
+    "produkt": "Direkt-Mischsaft oder Plus",
+    "preis": "2.69",
+    "alter_preis": "3.69",
+    "einheit": "je 750 - 900-ml-Fl."
+  },
+  {
+    "marke": "YOUCOOK",
+    "produkt": "Fertiggericht",
+    "preis": "3.49",
+    "alter_preis": "4.49",
+    "einheit": "je 420-g-Packg."
+  },
+  {
+    "marke": "DOVGAN",
+    "produkt": "Taschki Teigtaschen",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je 400 - 500-g-Packg."
+  },
+  {
+    "marke": "WIESENHOF",
+    "produkt": "Dtsch. Hähnchen-Schenkel",
+    "preis": "3.33",
+    "alter_preis": "4.99",
+    "einheit": "je 1-kg-Packg."
+  },
+  {
+    "marke": "GUSTAVO GUSTO",
+    "produkt": "Pizza",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 410 - 475-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Baguette",
+    "preis": "2.22",
+    "alter_preis": "2.99",
+    "einheit": "je 6 St. = 750-g-Packg."
+  },
+  {
+    "marke": "IGLO",
+    "produkt": "Schlemmer-Filet",
+    "preis": "2.22",
+    "alter_preis": "N/A",
+    "einheit": "je 380-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Quark-Riegel",
+    "preis": "0.55",
+    "alter_preis": "0.79",
+    "einheit": "je 40-g-Riegel"
+  },
+  {
+    "marke": "MÜLLER",
+    "produkt": "Frucht-Buttermilch",
+    "preis": "0.79",
+    "alter_preis": "1.39",
+    "einheit": "je 500-g-Fl."
+  },
+  {
+    "marke": "YFOOD",
+    "produkt": "This is Food Trinkmahlzeit",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 0,5-l-Fl."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Harzer Minis",
+    "preis": "0.99",
+    "alter_preis": "1.29",
+    "einheit": "je 115-g-Packg."
+  },
+  {
+    "marke": "ARLA",
+    "produkt": "Finello",
+    "preis": "1.49*",
+    "alter_preis": "N/A",
+    "einheit": "je 150-g-Packg."
+  },
+  {
+    "marke": "RAMA",
+    "produkt": "Sooo buttrig!",
+    "preis": "1.11",
+    "alter_preis": "1.79",
+    "einheit": "je 225-g-Packg."
+  },
+  {
+    "marke": "HARRY",
+    "produkt": "Rosenbrötchen",
+    "preis": "1.89",
+    "alter_preis": "2.49",
+    "einheit": "je 6 St. = 510-g-Packg."
+  },
+  {
+    "marke": "SONNEN BASSERMANN",
+    "produkt": "Eintopf",
+    "preis": "1.59",
+    "alter_preis": "2.99",
+    "einheit": "je 800-g-Dose"
+  },
+  {
+    "marke": "NISSIN",
+    "produkt": "Demae Ramen",
+    "preis": "0.59",
+    "alter_preis": "0.89",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Soßen",
+    "preis": "0.79",
+    "alter_preis": "N/A",
+    "einheit": "je Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Rapsöl",
+    "preis": "1.19",
+    "alter_preis": "1.49",
+    "einheit": "je 1-l-Fl."
+  },
+  {
+    "marke": "LANGNESE",
+    "produkt": "Bienenhonig",
+    "preis": "3.33",
+    "alter_preis": "4.49",
+    "einheit": "je 500-g-Glas"
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Studentenfutter",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "NESQUIK",
+    "produkt": "Getränkepulver",
+    "preis": "1.99",
+    "alter_preis": "3.29",
+    "einheit": "je 350-g-Beutel"
+  },
+  {
+    "marke": "TEEKANNE",
+    "produkt": "Internationaler Teegenuss",
+    "preis": "1.59",
+    "alter_preis": "2.29",
+    "einheit": "je 20-Btl.-Packg."
+  },
+  {
+    "marke": "FUNNY-FRISCH",
+    "produkt": "Linsen- oder Popchips",
+    "preis": "1.49",
+    "alter_preis": "N/A",
+    "einheit": "je 80 - 90-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Cashewkerne versch. Sorten",
+    "preis": "1.99",
+    "alter_preis": "2.49",
+    "einheit": "je 150-g-Dose"
+  },
+  {
+    "marke": "MERCI",
+    "produkt": "Vielfalt",
+    "preis": "2.79",
+    "alter_preis": "4.61",
+    "einheit": "je 210 - 250-g-Packg."
+  },
+  {
+    "marke": "STORCK",
+    "produkt": "Nimm2 Fruchtbonbons, Soft oder Lollies",
+    "preis": "1.69",
+    "alter_preis": "1.99",
+    "einheit": "je 200 - 429-g-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Cola, Cola-Mix oder Limonade",
+    "preis": "0.49",
+    "alter_preis": "0.65",
+    "einheit": "je 1,5-l-PET-Fl."
+  },
+  {
+    "marke": "VOLVIC",
+    "produkt": "Touch oder Tee",
+    "preis": "1.19",
+    "alter_preis": "N/A",
+    "einheit": "je 1,5-l-PET-Fl."
+  },
+  {
+    "marke": "RAUCH",
+    "produkt": "Happy Day",
+    "preis": "1.99",
+    "alter_preis": "2.69",
+    "einheit": "je 1-l-Packg."
+  },
+  {
+    "marke": "TRI TOP",
+    "produkt": "Sirup",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 0,5 - 0,6-l-Fl."
+  },
+  {
+    "marke": "CAPTAIN MORGAN",
+    "produkt": "Spiced Gold oder White Rum",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "GORBATSCHOW",
+    "produkt": "Wodka Original oder Citron",
+    "preis": "5.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "DOPPIO PASSO",
+    "produkt": "Primitivo Rosato IGT",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "MUMM",
+    "produkt": "Jahrgangssekt",
+    "preis": "3.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "MARTINI",
+    "produkt": "Aperitif",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "DALLI",
+    "produkt": "Voll- oder Colorwaschmittel",
+    "preis": "8.99*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "WC-ENTE",
+    "produkt": "WC-Reiniger",
+    "preis": "1.79",
+    "alter_preis": "2.25",
+    "einheit": "je 750-ml-Fl."
+  },
+  {
+    "marke": "APTAMIL",
+    "produkt": "Folgemilch 2 oder 3",
+    "preis": "14.99",
+    "alter_preis": "19.95",
+    "einheit": "je 800-g-Packg."
+  },
+  {
+    "marke": "MANNER",
+    "produkt": "Waffel-Schnitten",
+    "preis": "2.39",
+    "alter_preis": "3.79",
+    "einheit": "je 300 - 400-g-Beutel"
+  },
+  {
+    "marke": "Dtsch./span. Minigurken",
+    "produkt": "",
+    "preis": "1.99",
+    "alter_preis": "2.99",
+    "einheit": "je 750-g-Netz"
+  },
+  {
+    "marke": "Portug. Tafelbirnen Rocha",
+    "produkt": "",
+    "preis": "1.99",
+    "alter_preis": "2.99",
+    "einheit": "je 1-kg-Packg."
+  },
+  {
+    "marke": "OSANN",
+    "produkt": "Kindersitz »Four360 S«",
+    "preis": "129.00",
+    "alter_preis": "UVP 229.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "AdBlue®",
+    "preis": "4.44",
+    "alter_preis": "8.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Kfz-Batterie-Diagnosegerät »MPBDA A1«",
+    "preis": "34.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Mini-Kompressor »MPMK 10 E4«",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Leichtlauf-Motorenöl 5W-30 »Longlife III«",
+    "preis": "24.99",
+    "alter_preis": "41.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Leichtlauf-Motorenöl 10W-40 »Power«",
+    "preis": "17.99",
+    "alter_preis": "26.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Motorenöl 15W-40 »Universal«",
+    "preis": "17.99",
+    "alter_preis": "24.99",
+    "einheit": "je 5-l-Kanister"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Ölpumpe 12 V »UOP 12 C1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Hydraulik-Rangierwagenheber",
+    "preis": "29.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Reifentaschen-Set 13 - 17 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Reifentaschen-Set 16 - 19 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 19-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Arbeitsjacke",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE® PERFORMANCE",
+    "produkt": "Herren-Arbeitsbundhose",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Overshirt",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "S1-Sicherheitsschuhe",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Hose",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kraft-Kugelgelenk-Satz",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagnuss-Satz »PSS 3 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schlagschrauber-Adapter",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 11-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "LED-Akku-Stableuchte",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Teleskopratsche 1/2 Zoll",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Drehschlagschrauber 20 V »PASSK 20-Li C4«",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE PERFORMANCE®",
+    "produkt": "2-in-1-Montage-Rollbrett",
+    "preis": "24.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "WALSER",
+    "produkt": "Kfz-Verbandtasche",
+    "preis": "4.49",
+    "alter_preis": "12.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "TECHNAXX",
+    "produkt": "Akku-Luftkompressor »TX-157«",
+    "preis": "39.99",
+    "alter_preis": "UVP 59.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "VLIPPY",
+    "produkt": "Tür- und Fensterstopper",
+    "preis": "9.99",
+    "alter_preis": "UVP 17.99",
+    "einheit": "je 2-St.-Packg."
+  },
+  {
+    "marke": "TOWNLAND®",
+    "produkt": "Herren-Pyjama",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "SKECHERS",
+    "produkt": "Sneakersocken",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 6 Paar"
+  },
+  {
+    "marke": "HIP&HOPPS®",
+    "produkt": "Kinder-Spannbettlaken",
+    "preis": "5.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "DENVER",
+    "produkt": "BT-Lautsprecher »LBS-100«",
+    "preis": "9.99",
+    "alter_preis": "UVP 49.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Bettdecke ca. 200 x 220 cm",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Bettdecke ca. 155 x 220 cm",
+    "preis": "17.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "NUR DIE",
+    "produkt": "Damenstrumpfhose 50 DEN, Größe 38/40",
+    "preis": "9.99",
+    "alter_preis": "UVP 14.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Duo-Fensterrollo ca. 80 x 150 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Duo-Fensterrollo ca. 100 x 150 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Bettdecke ca. 135 x 200 cm",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "TOWNLAND®",
+    "produkt": "Herren-Lightweight-Weste",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Pyjama",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Stulpensocken",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Hausschuhe",
+    "preis": "3.99",
+    "alter_preis": "N/A",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Soft-Touch-Kopfkissen ca. 80 x 80 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Duo-Fensterrollo ca. 60 x 150 cm",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Longweste",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Kommode",
+    "preis": "59.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "SKECHERS",
+    "produkt": "Sneakersocken",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 6 Paar"
+  },
+  {
+    "marke": "HIP&HOPPS®",
+    "produkt": "Kinder-Wendebettwäsche-Set",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "TECHNAXX",
+    "produkt": "LED-Nachtlicht-Lautsprecher »TX-264«",
+    "preis": "19.99",
+    "alter_preis": "UVP 39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "Bauchschläferkissen",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "OYANDA®",
+    "produkt": "Damen-Steppweste",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Tischleuchte",
+    "preis": "12.99",
+    "alter_preis": "12.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "K-BIO",
+    "produkt": "Bioland Hackfleisch gemischt",
+    "preis": "5.29",
+    "alter_preis": "5.99",
+    "einheit": "je 400-g-Packg."
+  },
+  {
+    "marke": "ANDECHSER NATUR",
+    "produkt": "Bioland oder Bio-Schnittkäse",
+    "preis": "2.55",
+    "alter_preis": "3.19",
+    "einheit": "je 125 - 150-g-Packg."
+  },
+  {
+    "marke": "CAMPO VERDE",
+    "produkt": "Demeter Gemüsekonserven",
+    "preis": "1.59",
+    "alter_preis": "1.99",
+    "einheit": "je 350-g-Glas"
+  },
+  {
+    "marke": "K-BIO",
+    "produkt": "Bioland H-Vollmilch 3,8 % Fett",
+    "preis": "1.00",
+    "alter_preis": "1.25",
+    "einheit": "je 1-l-Packg."
+  },
+  {
+    "marke": "K-BIO",
+    "produkt": "Bioland Naturjoghurt",
+    "preis": "0.92",
+    "alter_preis": "1.15",
+    "einheit": "je 500-g-Becher"
+  },
+  {
+    "marke": "K-BIO",
+    "produkt": "Bioland Hirtenkäse",
+    "preis": "1.75",
+    "alter_preis": "2.19",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "LITTLE LUNCH",
+    "produkt": "Bio-Suppe",
+    "preis": "2.63",
+    "alter_preis": "3.29",
+    "einheit": "je 350-ml-Glas"
+  },
+  {
+    "marke": "VOELKEL",
+    "produkt": "Demeter Shot",
+    "preis": "3.19",
+    "alter_preis": "3.99",
+    "einheit": "je 280-ml-Fl."
+  },
+  {
+    "marke": "WILTMANN",
+    "produkt": "Bio-Salami",
+    "preis": "2.15",
+    "alter_preis": "2.69",
+    "einheit": "je 50 - 80-g-Packg."
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Boots",
+    "preis": "34.99",
+    "alter_preis": "UVP 79.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-T-Shirt",
+    "preis": "9.99",
+    "alter_preis": "UVP 17.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sweathose",
+    "preis": "24.99",
+    "alter_preis": "UVP 59.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sweathoodie",
+    "preis": "34.99",
+    "alter_preis": "UVP 69.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Langarmshirt",
+    "preis": "14.99",
+    "alter_preis": "UVP 29.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Sneaker »High Cut«",
+    "preis": "34.99",
+    "alter_preis": "UVP 59.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Rucksack",
+    "preis": "22.99",
+    "alter_preis": "UVP 39.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sportsocken",
+    "preis": "5.99",
+    "alter_preis": "UVP 19.99",
+    "einheit": "je 4 Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Langarmshirt",
+    "preis": "14.99",
+    "alter_preis": "UVP 29.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Retroboxer",
+    "preis": "12.99",
+    "alter_preis": "UVP 39.95",
+    "einheit": "je 3-St.-Packg."
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Hemd",
+    "preis": "24.99",
+    "alter_preis": "UVP 49.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Sneaker",
+    "preis": "34.99",
+    "alter_preis": "UVP 69.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-T-Shirt",
+    "preis": "9.99",
+    "alter_preis": "UVP 17.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Boots",
+    "preis": "34.99",
+    "alter_preis": "UVP 79.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Jeans",
+    "preis": "39.99",
+    "alter_preis": "UVP 79.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Slips",
+    "preis": "9.99",
+    "alter_preis": "UVP 32.95",
+    "einheit": "je 3-St.-Packg."
+  },
+  {
+    "marke": "7 DAYS",
+    "produkt": "Croissants",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 4 St. = 240-g-Packg."
+  },
+  {
+    "marke": "BALISTO oder TWIX",
+    "produkt": "Schokoriegel",
+    "preis": "1.79",
+    "alter_preis": "2.99",
+    "einheit": "je 5 - 8 St. = 148 - 250-g-Packg."
+  },
+  {
+    "marke": "MAYBACH",
+    "produkt": "Qualitätswein oder Alkoholfrei",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl."
+  },
+  {
+    "marke": "KIRI",
+    "produkt": "Mit Sahne",
+    "preis": "2.79",
+    "alter_preis": "3.99",
+    "einheit": "je 10 St. = 180-g-Packg."
+  },
+  {
+    "marke": "NOA",
+    "produkt": "Veganer Brotaufstrich",
+    "preis": "1.79",
+    "alter_preis": "2.39",
+    "einheit": "je 175-g-Becher"
+  },
+  {
+    "marke": "HELLMANN'S",
+    "produkt": "Real Mayo",
+    "preis": "1.49",
+    "alter_preis": "1.99",
+    "einheit": "je 250-ml-Fl."
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Salat-Krönung",
+    "preis": "0.99",
+    "alter_preis": "N/A",
+    "einheit": "je 5 St. = 40 - 55-g-Packg."
+  },
+  {
+    "marke": "NUTELLA",
+    "produkt": "Biscuits",
+    "preis": "2.79",
+    "alter_preis": "3.49",
+    "einheit": "je 304-g-Packg."
+  },
+  {
+    "marke": "PURINA ONE",
+    "produkt": "Katzennahrung",
+    "preis": "2.99",
+    "alter_preis": "3.95",
+    "einheit": "je 750-g-Beutel"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Stehleuchte",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "LIV&BO®",
+    "produkt": "LED-Akku-Tischleuchte",
+    "preis": "12.99",
+    "alter_preis": "12.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Damen-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Herren-Lederjacke",
+    "preis": "99.99",
+    "alter_preis": "UVP 249.00",
+    "einheit": "je"
+  },
+  {
+    "marke": "MUSTANG",
+    "produkt": "Rucksack",
+    "preis": "22.99",
+    "alter_preis": "UVP 39.95",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Overshirt",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Drehschlagschrauber 20 V »PASSK 20-Li C4«",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Laubsauger/-bläser 40 V »PLSBA 40-Li A1« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "HITSCHIES",
+    "produkt": "Hitschies",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 200 - 210-g-Packg."
+  },
+  {
+    "marke": "WILTMANN",
+    "produkt": "Salami",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 50 - 80-g-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Arbeitsjacke",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Aufkleber-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Dispersionsfarbrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Eckroller",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Entkalker",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Fliesen-Nivelliersystem",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 50-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Flüssigreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Garagenbodenfarbe silbergrau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Gartenhandschuhe",
+    "preis": "1.99",
+    "alter_preis": "3.99",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Gipskarton-Dübel PH2",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 150-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glaskeramik- und Edelstahlreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Glasurrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pinsel-Set",
+    "preis": "2.49",
+    "alter_preis": "N/A",
+    "einheit": "je 6-teilig"
+  },
+  {
+    "marke": "PARKSIDE® PERFORMANCE",
+    "produkt": "Herren-Arbeitsbundhose",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Overshirt",
+    "preis": "19.99",
+    "alter_preis": "19.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "S1-Sicherheitsschuhe",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je Paar"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 95-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Herren-Hose",
+    "preis": "14.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kleben und Abdichten",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Kraft-Kugelgelenk-Satz",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 3-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Acryl Express",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Maler-Starter-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Malervlies-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 4-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekeile",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 100-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagekleber",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 450-g-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Hohlraum-Metalldübel Montage-Set",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 31-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Montagezange",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schutzdecken-Set",
+    "preis": "6.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe anthrazit",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Pflastersteinfarbe grau",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je 2,5-l-Dose"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Ölfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Scheibenreiniger",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikonfugen-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Riss- und Putz-Acryl",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Polyester-Acryl",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Mikrofaser",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Rostfleck-Entferner",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Flasche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schaumstoffrollen",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 10-St.-Packg."
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Roller-Set Schaumstoff",
+    "preis": "1.99",
+    "alter_preis": "N/A",
+    "einheit": "je 7-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Sanitärsilikon",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon transparent",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Silikon weiß",
+    "preis": "2.99",
+    "alter_preis": "N/A",
+    "einheit": "je 310-ml-Kartusche"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Astschere 20 V »PAAS 20-Li B1« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Drehschlagschrauber 20 V »PASSK 20-Li C4«",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "MY PROJECT®",
+    "produkt": "Akku-Heckenschere 20 V »PHSA 20-Li C3« ohne Akku",
+    "preis": "29.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Hochentaster 20 V »PAHE 20-Li« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Laubbläser 20 V »PLBA 20-Li B3« ohne Akku",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Teleskop-Heckenschere 20 V »PTHSA 20-Li D5«",
+    "preis": "39.99",
+    "alter_preis": "49.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku-Laubsauger/-bläser 40 V »PLSBA 40-Li A1« ohne Akku",
+    "preis": "39.99",
+    "alter_preis": "39.99",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE PERFORMANCE®",
+    "produkt": "2-in-1-Montage-Rollbrett",
+    "preis": "24.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "20-V-Akku 2 Ah »PAP 20 B1«",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Akku 20 V/4 Ah »PAP 20 B3«",
+    "preis": "19.99",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Schraubendreher-Satz lang",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 9-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Steckschlüssel-Set mit T-Griff",
+    "preis": "9.99",
+    "alter_preis": "N/A",
+    "einheit": "je 5-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 8-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 8-teilig"
+  },
+  {
+    "marke": "PARKSIDE®",
+    "produkt": "Spannzwingen-Set 12-tlg.",
+    "preis": "4.99",
+    "alter_preis": "N/A",
+    "einheit": "je 12-teilig"
+  },
+  {
+    "marke": "JEVER",
+    "produkt": "Pilsener",
+    "preis": "11.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 24 x 0,33-l-Fl."
+  },
+  {
+    "marke": "APPEL",
+    "produkt": "Zarte Heringsfilets",
+    "preis": "1.11",
+    "alter_preis": "N/A",
+    "einheit": "je 190 - 200-g-Dose"
+  },
+  {
+    "marke": "KNOPPERS",
+    "produkt": "Milch-Nuss-Schnitte",
+    "preis": "1.69",
+    "alter_preis": "N/A",
+    "einheit": "je 8 St. = 200-g-Packg."
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Grillsauce",
+    "preis": "0.99",
+    "alter_preis": "N/A",
+    "einheit": "je 250-ml-Fl."
+  },
+  {
+    "marke": "Dtsch. Cocktailrispentomaten",
+    "produkt": "",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 350-g-Packg."
+  },
+  {
+    "marke": "SPREHE",
+    "produkt": "Hähnchenschnitzel",
+    "preis": "5.55",
+    "alter_preis": "6.99",
+    "einheit": "je 750-g-Beutel"
+  },
+  {
+    "marke": "LANDLIEBE",
+    "produkt": "Pudding",
+    "preis": "0.49",
+    "alter_preis": "0.99",
+    "einheit": "je 150 - 225-g-Becher"
+  },
+  {
+    "marke": "JEVER",
+    "produkt": "Pilsener oder Fun Alkoholfrei",
+    "preis": "11.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "LEIBNIZ",
+    "produkt": "Choco",
+    "preis": "2.22",
+    "alter_preis": "3.79",
+    "einheit": "je 125-g-Packg."
+  },
+  {
+    "marke": "SCHWARTAU",
+    "produkt": "Konfitüre Extra",
+    "preis": "1.99",
+    "alter_preis": "2.69",
+    "einheit": "je 280 - 340-g-Glas"
+  },
+  {
+    "marke": "WILTMANN",
+    "produkt": "Salami",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 50 - 80-g-Packg."
+  },
+  {
+    "marke": "HENKELL",
+    "produkt": "Piccolo-Sekt",
+    "preis": "0.99",
+    "alter_preis": "1.79",
+    "einheit": "je 0,2-l-Fl."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Weißwurst",
+    "preis": "2.29",
+    "alter_preis": "N/A",
+    "einheit": "je 5 St. = 300-g-Packg."
+  },
+  {
+    "marke": "KÜHNE",
+    "produkt": "Rotkohl oder Apfelrotkohl",
+    "preis": "1.29",
+    "alter_preis": "2.09",
+    "einheit": "je 680-g-Glas"
+  },
+  {
+    "marke": "HITSCHIES",
+    "produkt": "Hitschies",
+    "preis": "1.79",
+    "alter_preis": "2.29",
+    "einheit": "je 200 - 210-g-Packg."
+  },
+  {
+    "marke": "ERDINGER BRAUHAUS",
+    "produkt": "Helles",
+    "preis": "13.99",
+    "alter_preis": "20.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "SETTELE",
+    "produkt": "Eier-Spätzle »Knöpfle«",
+    "preis": "2.99",
+    "alter_preis": "3.79",
+    "einheit": "je 1-kg-Packg."
+  },
+  {
+    "marke": "K-CLASSIC",
+    "produkt": "Bayer. Süßer Senf",
+    "preis": "0.79",
+    "alter_preis": "0.99",
+    "einheit": "je 250-ml-Glas"
+  },
+  {
+    "marke": "Laugenbrezel",
+    "produkt": "",
+    "preis": "0.25",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "RÜGENWALDER MÜHLE",
+    "produkt": "Pommersche Gutsleberwurst",
+    "preis": "1.49",
+    "alter_preis": "2.19",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Schinken-Käse-Croissant",
+    "produkt": "",
+    "preis": "0.59",
+    "alter_preis": "0.79",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Gyros-Snack",
+    "produkt": "",
+    "preis": "0.79*",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Pinker Donut",
+    "produkt": "",
+    "preis": "0.39*",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Laugenbrezel",
+    "produkt": "",
+    "preis": "0.25",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "Ciabatta natur",
+    "produkt": "",
+    "preis": "0.55",
+    "alter_preis": "N/A",
+    "einheit": "je 300-g-Stück"
+  },
+  {
+    "marke": "Feinschmeckerkruste",
+    "produkt": "",
+    "preis": "1.29",
+    "alter_preis": "1.99",
+    "einheit": "je 620-g-Stück"
+  },
+  {
+    "marke": "Bauernbrötchen",
+    "produkt": "",
+    "preis": "0.29",
+    "alter_preis": "N/A",
+    "einheit": "je Stück"
+  },
+  {
+    "marke": "DUSCHDAS",
+    "produkt": "Duschgel",
+    "preis": "2.00",
+    "alter_preis": "3.50",
+    "einheit": "je 225-ml-Fl."
+  },
+  {
+    "marke": "ORO DI PARMA",
+    "produkt": "Tomatenprodukt",
+    "preis": "2.00",
+    "alter_preis": "3.98",
+    "einheit": "je 200-g-Tube oder 400-g-Dose"
+  },
+  {
+    "marke": "DEL MONTE",
+    "produkt": "Ananas",
+    "preis": "1.69",
+    "alter_preis": "2.99",
+    "einheit": "je 560-g-Dose"
+  },
+  {
+    "marke": "DELICIUS",
+    "produkt": "Pizza",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 80-g-Glas"
+  },
+  {
+    "marke": "DOVGAN",
+    "produkt": "Riga-Sprotten",
+    "preis": "1.29",
+    "alter_preis": "1.79",
+    "einheit": "je 160-g-Dose"
+  },
+  {
+    "marke": "FOLLOWFOOD",
+    "produkt": "Makrelenfilets",
+    "preis": "1.69",
+    "alter_preis": "2.29",
+    "einheit": "je 125-g-Packg."
+  },
+  {
+    "marke": "HENGSTENBERG",
+    "produkt": "Kimchi",
+    "preis": "2.49",
+    "alter_preis": "3.29",
+    "einheit": "je 260-g-Glas"
+  },
+  {
+    "marke": "HENGSTENBERG",
+    "produkt": "Krautsalat",
+    "preis": "1.99",
+    "alter_preis": "2.79",
+    "einheit": "je 380-g-Glas"
+  },
+  {
+    "marke": "KÜHNE",
+    "produkt": "Burger-Zwiebeln",
+    "preis": "1.89",
+    "alter_preis": "2.49",
+    "einheit": "je 320-g-Glas"
+  },
+  {
+    "marke": "LUTÈCE",
+    "produkt": "Champignons",
+    "preis": "2.22",
+    "alter_preis": "2.99",
+    "einheit": "je 530-g-Glas"
+  },
+  {
+    "marke": "SAUPIQUET",
+    "produkt": "Thunfisch für Pasta oder Paté",
+    "preis": "2.29",
+    "alter_preis": "3.29",
+    "einheit": "je 115 - 160-g-Dose"
+  },
+  {
+    "marke": "AGASAAT",
+    "produkt": "Dampfmohn",
+    "preis": "2.22",
+    "alter_preis": "3.19",
+    "einheit": "je 200-g-Beutel"
+  },
+  {
+    "marke": "AURORA",
+    "produkt": "Weizenmehl Klassik Type 405",
+    "preis": "1.11",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Kakao zum Backen",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "DR. OETKER",
+    "produkt": "Haselnüsse",
+    "preis": "2.99",
+    "alter_preis": "3.99",
+    "einheit": "je 100-g-Packg."
+  },
+  {
+    "marke": "RUF",
+    "produkt": "Puddingpulver",
+    "preis": "0.79",
+    "alter_preis": "1.09",
+    "einheit": "je 3 x 38-g-Packg."
+  },
+  {
+    "marke": "RUF",
+    "produkt": "Backaroma",
+    "preis": "0.59",
+    "alter_preis": "0.89",
+    "einheit": "je 4 St. = 8-ml-Packg."
+  },
+  {
+    "marke": "Frenched Racks",
+    "produkt": "",
+    "preis": "14.90*",
+    "alter_preis": "N/A",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "Schweinefilet",
+    "produkt": "vom Ibéricoschwein",
+    "preis": "24.90",
+    "alter_preis": "34.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "EMMI KALTBACH",
+    "produkt": "Le Gruyère AOP",
+    "preis": "2.39",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "HOUDEK",
+    "produkt": "Kabanos Klassik",
+    "preis": "1.29",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Rose in Schale",
+    "produkt": "",
+    "preis": "5.99*",
+    "alter_preis": "N/A",
+    "einheit": "je"
+  },
+  {
+    "marke": "Scholle",
+    "produkt": "",
+    "preis": "1.49",
+    "alter_preis": "2.29",
+    "einheit": "je 100 g"
+  },
+  {
+    "marke": "Kalbsleber am Stück",
+    "produkt": "",
+    "preis": "13.90",
+    "alter_preis": "19.90",
+    "einheit": "je kg"
+  },
+  {
+    "marke": "MILCH-SCHNITTE",
+    "produkt": "Snack",
+    "preis": "2.22",
+    "alter_preis": "N/A",
+    "einheit": "je 10 St. = 280-g-Packg."
+  },
+  {
+    "marke": "SALAKIS",
+    "produkt": "Schafskäse oder Feta",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 150 - 180-g-Packg."
+  },
+  {
+    "marke": "KNORR",
+    "produkt": "Bratenjus",
+    "preis": "7.99",
+    "alter_preis": "N/A",
+    "einheit": "je 400-g-Dose"
+  },
+  {
+    "marke": "KELLOGG'S",
+    "produkt": "Cerealien",
+    "preis": "2.22",
+    "alter_preis": "N/A",
+    "einheit": "je 400 - 500-g-Packg."
+  },
+  {
+    "marke": "NESCAFÉ",
+    "produkt": "Dolce Gusto Kapseln",
+    "preis": "3.69",
+    "alter_preis": "N/A",
+    "einheit": "je 12 - 16 St. = 88 - 256-g-Packg."
+  },
+  {
+    "marke": "NIPPON",
+    "produkt": "Puffreis in Schokolade",
+    "preis": "1.69",
+    "alter_preis": "N/A",
+    "einheit": "je 200-g-Packg."
+  },
+  {
+    "marke": "RAMAZZOTTI",
+    "produkt": "Ital. Liköre oder Arancia Alkohlfrei",
+    "preis": "8.99",
+    "alter_preis": "N/A",
+    "einheit": "je 0,7-l-Fl."
+  },
+  {
+    "marke": "STUTTGARTER HOFBRÄU",
+    "produkt": "Pilsner",
+    "preis": "11.49",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "KÄTHCHEN BIER",
+    "produkt": "Spezial",
+    "preis": "15.99",
+    "alter_preis": "19.49",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "MÖNCHSHOF",
+    "produkt": "Kellerbier oder Naturradler",
+    "preis": "12.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "HASSERÖDER",
+    "produkt": "Premium Pils",
+    "preis": "9.99",
+    "alter_preis": "16.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "KÖNIG LUDWIG",
+    "produkt": "Weissbier",
+    "preis": "12.99",
+    "alter_preis": "19.29",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "AUGUSTINERBRÄU",
+    "produkt": "Edelstoff",
+    "preis": "16.99",
+    "alter_preis": "22.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "BRAUHAUS TEGERNSEE",
+    "produkt": "Spezial",
+    "preis": "16.99",
+    "alter_preis": "20.99",
+    "einheit": "je Ka. 20 x 0,5-l-Fl."
+  },
+  {
+    "marke": "DUCKSTEIN",
+    "produkt": "Rotblond Original",
+    "preis": "11.99",
+    "alter_preis": "N/A",
+    "einheit": "je Ka. 8 x 0,5-l-Fl."
+  },
+  {
+    "marke": "JEVER",
+    "produkt": "Fun alkoholfrei",
+    "preis": "3.79",
+    "alter_preis": "4.79",
+    "einheit": "je Packg. 6 x 0,33-l-Fl."
+  },
+  {
+    "marke": "FAXE",
+    "produkt": "Premium",
+    "preis": "1.79",
+    "alter_preis": "N/A",
+    "einheit": "je 1-l-Dose"
+  },
+  {
+    "marke": "LEFFE",
+    "produkt": "Blonde oder Brune",
+    "preis": "4.79",
+    "alter_preis": "6.49",
+    "einheit": "je Packg. 4 x 0,33-l-Fl."
+  },
+  {
+    "marke": "MEIN T",
+    "produkt": "Erfrischungsgetränk",
+    "preis": "0.59",
+    "alter_preis": "N/A",
+    "einheit": "je 500-ml-Packg."
+  }
+]
