@@ -1,50 +1,36 @@
-# Name des Workflows, der in der GitHub Actions-Übersicht angezeigt wird
 name: Scrape Kaufland Offers
 
-# Die Auslöser (Trigger) für diesen Workflow
 on:
-  # Ermöglicht das manuelle Starten über den "Actions"-Tab (sehr nützlich zum Testen)
   workflow_dispatch:
-
-  # Startet den Scraper nach einem Zeitplan
   schedule:
-    # Führt den Job jeden Tag um 02:00 Uhr UTC aus.
-    # Das entspricht 03:00 Uhr deutscher Winterzeit bzw. 04:00 Uhr Sommerzeit.
     - cron: '0 2 * * *'
 
-# Definiert die Aufgaben (Jobs), die ausgeführt werden sollen
 jobs:
   scrape:
-    # Legt fest, dass der Job auf einer aktuellen Ubuntu-Linux-Maschine laufen soll
     runs-on: ubuntu-latest
 
-    # Die einzelnen Schritte des Jobs
     steps:
-      # Schritt 1: Holt den aktuellen Code aus deinem Repository auf die virtuelle Maschine
       - name: Check out repo
         uses: actions/checkout@v4
 
-      # Schritt 2: Richtet die gewünschte Python-Version ein
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # Schritt 3: Installiert die notwendigen Browser für Playwright
-      - name: Install Playwright Browsers
-        run: playwright install --with-deps
-
-      # Schritt 4: Installiert die in deinem Skript genutzten Python-Bibliotheken
+      # KORREKTUR: Erst die Bibliotheken installieren...
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install playwright beautifulsoup4 lxml
 
-      # Schritt 5: Führt dein eigentliches Scraper-Skript aus
+      # KORREKTUR: ...dann den install-Befehl von Playwright ausführen.
+      - name: Install Playwright Browsers
+        run: playwright install --with-deps
+
       - name: Run Scraper
         run: python scraper.py
 
-      # Schritt 6: Speichert die geänderte angebote.json zurück in dein Repository
       - name: Commit and push if changed
         run: |
           git config --global user.name "GitHub Actions"
