@@ -1,88 +1,138 @@
-# Zuerst die notwendigen Bibliotheken importieren
 import json
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
-def scrape_kaufland_offers():
+def extract_offers_from_html(html_content, date_str, seen_ids):
     """
-    Diese Funktion steuert einen Browser, um die Kaufland-Angebotsseite zu laden,
-    extrahiert alle sichtbaren Angebote und speichert sie in einer JSON-Datei.
+    Hilfsfunktion: Extrahiert alle Angebote aus einem gegebenen HTML-Code,
+    prüft auf Duplikate und fügt das Gültigkeitsdatum sowie den K-Card-Preis hinzu.
+    """
+    newly_found_offers = []
+    soup = BeautifulSoup(html_content, 'lxml')
+    offer_tiles = soup.find_all('a', class_='k-product-tile')
+
+    for tile in offer_tiles:
+        image_tag = tile.find('img', class_='k-product-tile__main-image')
+        if not image_tag or not image_tag.get('src'):
+            continue
+        try:
+            offer_id = image_tag['src'].split('/')[-1].split('?')[0]
+        except (IndexError, AttributeError):
+            continue
+
+        if offer_id in seen_ids:
+            continue
+        seen_ids.add(offer_id)
+
+        title = tile.find('div', class_='k-product-tile__title').get_text(strip=True)
+        price_tag = tile.find('div', class_='k-price-tag__price')
+        price = price_tag.get_text(strip=True) if price_tag else 'N/A'
+
+        if title and price:
+            subtitle = tile.find('div', class_='k-product-tile__subtitle').get_text(strip=True)
+            old_price_tag = tile.find('span', class_='k-price-tag__old-price-line-through')
+            unit_tag = tile.find('div', class_='k-product-tile__unit-price')
+
+            # --- NEU: Suche nach dem K-Card Preis ---
+            kcard_preis = 'N/A'  # Standardwert, falls kein K-Card Preis vorhanden
+            kcard_container = tile.find('div', class_='k-product-tile__pricetags-kcard')
+            if kcard_container:
+                kcard_price_tag = kcard_container.find('div', class_='k-price-tag__price')
+                if kcard_price_tag:
+                    kcard_preis = kcard_price_tag.get_text(strip=True)
+            # --- ENDE NEUER TEIL ---
+
+            newly_found_offers.append({
+                'gueltig_ab': date_str,
+                'marke': title,
+                'produkt': subtitle or '',
+                'preis': price,
+                'kcard_preis': kcard_preis, # NEUES FELD
+                'alter_preis': old_price_tag.get_text(strip=True) if old_price_tag else 'N/A',
+                'einheit': unit_tag.get_text(strip=True) if unit_tag else ''
+            })
+            
+    return newly_found_offers
+
+def click_all_show_more_buttons(page):
+    """Hilfsfunktion, die alle 'Weitere Angebote anzeigen'-Buttons klickt."""
+    show_more_selector = 'span:has-text("Weitere Angebote anzeigen")'
+    while page.locator(show_more_selector).count() > 0:
+        print(f"  -> 'Weitere Angebote'-Button gefunden. Klicke...")
+        try:
+            page.locator(show_more_selector).first.click(timeout=5000)
+            page.wait_for_timeout(2000)
+        except PlaywrightTimeoutError:
+            print("  -> Button war nicht mehr klickbar, wahrscheinlich verschwunden. Mache weiter.")
+            break
+
+def scrape_all_kaufland_offers():
+    """
+    Steuert einen Browser, akzeptiert Cookies, klickt sich durch alle Tage 
+    und "mehr anzeigen"-Buttons, sammelt alle einzigartigen Angebote 
+    und speichert sie in einer JSON-Datei.
     """
     url = "https://filiale.kaufland.de/angebote/uebersicht.html"
     output_filename = 'angebote.json'
     
+    all_unique_offers = []
+    seen_offer_ids = set()
+
     print(f"Starte Scraping-Prozess für: {url}")
 
     try:
-        # Playwright wird im 'with'-Block gestartet, damit es sich selbst aufräumt
         with sync_playwright() as p:
-            # 1. Browser starten und eine neue Seite öffnen
-            browser = p.chromium.launch() # 'headless=True' ist Standard, d.h. unsichtbar
+            browser = p.chromium.launch()
             page = browser.new_page()
-            
-            # 2. Zur Zielseite navigieren
-            print("Navigiere zur Seite...")
-            page.goto(url, timeout=60000)  # 60 Sekunden Timeout für das Laden der Seite
+            page.goto(url, timeout=90000)
 
-            # 3. Warten, bis die Angebotskacheln von JavaScript gerendert wurden
-            print("Warte, bis die Angebote erscheinen...")
-            # Wir verwenden den Selector '.k-product-tile', den wir im HTML-Code gefunden haben
-            page.wait_for_selector('.k-product-tile', timeout=30000) # 30 Sekunden auf Angebote warten
+            try:
+                print("Suche nach Cookie-Banner und akzeptiere ihn...")
+                accept_button_selector = '#onetrust-accept-btn-handler'
+                page.locator(accept_button_selector).click(timeout=10000)
+                print("Cookie-Banner akzeptiert.")
+                page.wait_for_timeout(2000)
+            except PlaywrightTimeoutError:
+                print("Cookie-Banner nicht gefunden oder bereits akzeptiert. Mache weiter.")
+
+            print("\n--- Scrape Angebote für 'Heute' ---")
+            click_all_show_more_buttons(page)
+            html_today = page.content()
+            offers_today = extract_offers_from_html(html_today, "Heute", seen_offer_ids)
+            all_unique_offers.extend(offers_today)
+            print(f"  -> {len(offers_today)} neue Angebote für 'Heute' gefunden.")
+
+            date_buttons = page.locator('.k-navigation-bubble:not([disabled])').all()
             
-            print("Angebote sind geladen. Extrahiere HTML-Inhalt.")
-            # 4. Den finalen, vollständigen HTML-Code der Seite auslesen
-            html_content = page.content()
-            
-            # 5. Browser schließen, wir haben was wir brauchen
+            future_dates = []
+            for button in date_buttons:
+                button_id = button.get_attribute('id')
+                if button_id and "20" in button_id:
+                    future_dates.append(button_id)
+
+            for date in future_dates:
+                print(f"\n--- Scrape Angebote für '{date}' ---")
+                selector_for_date = f'[id="{date}"]'
+                page.locator(selector_for_date).click()
+                page.wait_for_load_state('networkidle', timeout=30000)
+                
+                click_all_show_more_buttons(page)
+                
+                html_future = page.content()
+                offers_future = extract_offers_from_html(html_future, date, seen_offer_ids)
+                all_unique_offers.extend(offers_future)
+                print(f"  -> {len(offers_future)} neue Angebote für '{date}' gefunden.")
+
             browser.close()
 
-        # 6. Den HTML-Code mit BeautifulSoup für die Analyse vorbereiten
-        soup = BeautifulSoup(html_content, 'lxml')
-        
-        # 7. Alle Angebots-Container finden
-        offer_tiles = soup.find_all('a', class_='k-product-tile')
-        
-        if not offer_tiles:
-            print("Warnung: Keine Angebote gefunden. Möglicherweise hat sich die Seitenstruktur geändert.")
-            return
-
-        # 8. Jedes Angebot durchgehen und die Daten in eine Liste extrahieren
-        extracted_offers = []
-        for tile in offer_tiles:
-            # Hilfsfunktion, um Text sicher zu extrahieren, auch wenn ein Element fehlt
-            def get_text(element, selector, class_name):
-                found = element.find(selector, class_=class_name)
-                return found.get_text(strip=True) if found else None
-
-            # Daten aus der Kachel ziehen
-            title = get_text(tile, 'div', 'k-product-tile__title')
-            subtitle = get_text(tile, 'div', 'k-product-tile__subtitle')
-            price = get_text(tile, 'div', 'k-price-tag__price')
-            old_price = get_text(tile, 'span', 'k-price-tag__old-price-line-through')
-            unit = get_text(tile, 'div', 'k-product-tile__unit-price')
-
-            # Nur wenn Titel und Preis vorhanden sind, zur Liste hinzufügen
-            if title and price:
-                extracted_offers.append({
-                    'marke': title,
-                    'produkt': subtitle or '', # Falls es keinen Untertitel gibt
-                    'preis': price,
-                    'alter_preis': old_price or 'N/A', # Falls kein alter Preis da ist
-                    'einheit': unit or ''
-                })
-
-        # 9. Die gesammelten Daten in eine JSON-Datei schreiben
         with open(output_filename, 'w', encoding='utf-8') as f:
-            # indent=2 sorgt für eine schön formatierte Datei
-            json.dump(extracted_offers, f, ensure_ascii=False, indent=2)
+            json.dump(all_unique_offers, f, ensure_ascii=False, indent=2)
             
-        print(f"✅ Erfolgreich! {len(extracted_offers)} Angebote in die Datei '{output_filename}' geschrieben.")
+        print(f"\n✅ Erfolgreich! Insgesamt {len(all_unique_offers)} einzigartige Angebote in '{output_filename}' geschrieben.")
 
-    except PlaywrightTimeoutError:
-        print("❌ Fehler: Timeout beim Warten auf die Angebote. Die Seite hat zu lange gebraucht oder der Selector '.k-product-tile' wurde nicht gefunden.")
     except Exception as e:
         print(f"❌ Ein unerwarteter Fehler ist aufgetreten: {e}")
 
-# Hauptteil des Skripts: Führt die Funktion aus, wenn die Datei direkt gestartet wird
+
 if __name__ == "__main__":
-    scrape_kaufland_offers()
+    scrape_all_kaufland_offers()
