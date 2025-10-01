@@ -7,6 +7,12 @@ on:
 
 jobs:
   scrape:
+    # --- HIER IST DIE KORREKTUR ---
+    # Wir geben dem Job explizit die Erlaubnis, in das Repository zu schreiben.
+    permissions:
+      contents: write
+    # --------------------------
+
     runs-on: ubuntu-latest
 
     steps:
@@ -17,14 +23,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      # KORREKTUR: Erst die Bibliotheken installieren...
+          
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install playwright beautifulsoup4 lxml
 
-      # KORREKTUR: ...dann den install-Befehl von Playwright ausführen.
       - name: Install Playwright Browsers
         run: playwright install --with-deps
 
