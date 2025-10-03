@@ -2,10 +2,11 @@ import json
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
+# Ersetze die komplette Funktion in deiner scraper.py auf GitHub
+
 def extract_offers_from_html(html_content, date_str, seen_ids):
     """
-    Hilfsfunktion: Extrahiert alle Angebote aus einem gegebenen HTML-Code,
-    prüft auf Duplikate und fügt das Gültigkeitsdatum sowie den K-Card-Preis hinzu.
+    Hilfsfunktion: Extrahiert alle Angebotsdaten, inklusive der Bild-URL.
     """
     newly_found_offers = []
     soup = BeautifulSoup(html_content, 'lxml')
@@ -32,24 +33,27 @@ def extract_offers_from_html(html_content, date_str, seen_ids):
             subtitle = tile.find('div', class_='k-product-tile__subtitle').get_text(strip=True)
             old_price_tag = tile.find('span', class_='k-price-tag__old-price-line-through')
             unit_tag = tile.find('div', class_='k-product-tile__unit-price')
-
-            # --- NEU: Suche nach dem K-Card Preis ---
-            kcard_preis = 'N/A'  # Standardwert, falls kein K-Card Preis vorhanden
+            kcard_preis = 'N/A'
             kcard_container = tile.find('div', class_='k-product-tile__pricetags-kcard')
             if kcard_container:
                 kcard_price_tag = kcard_container.find('div', class_='k-price-tag__price')
                 if kcard_price_tag:
                     kcard_preis = kcard_price_tag.get_text(strip=True)
-            # --- ENDE NEUER TEIL ---
+            
+            # --- NEU: Bild-URL extrahieren ---
+            bild_url = image_tag.get('src', '') # Holt den Inhalt des 'src'-Attributs
+            # --- ENDE NEU ---
 
             newly_found_offers.append({
+                'offer_id': offer_id,
                 'gueltig_ab': date_str,
                 'marke': title,
                 'produkt': subtitle or '',
                 'preis': price,
-                'kcard_preis': kcard_preis, # NEUES FELD
+                'kcard_preis': kcard_preis,
                 'alter_preis': old_price_tag.get_text(strip=True) if old_price_tag else 'N/A',
-                'einheit': unit_tag.get_text(strip=True) if unit_tag else ''
+                'einheit': unit_tag.get_text(strip=True) if unit_tag else '',
+                'bild_url': bild_url # --- NEUES FELD ---
             })
             
     return newly_found_offers
