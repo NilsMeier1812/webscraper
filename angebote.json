@@ -4571,7 +4571,7 @@
     "produkt": "Sandwichtoaster »SA-3052KL«",
     "preis": "7.99",
     "kcard_preis": "N/A",
-    "alter_preis": "N/A",
+    "alter_preis": "UVP 14.99",
     "einheit": "je",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20771534_V_1274882"
   },
@@ -4585,6 +4585,17 @@
     "alter_preis": "N/A",
     "einheit": "je 480-g-Packg.",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01294304"
+  },
+  {
+    "offer_id": "00370726FR-1",
+    "gueltig_ab": "2025-10-04",
+    "marke": "Dtsch./niederl. Broccoli",
+    "produkt": "",
+    "preis": "1.11",
+    "kcard_preis": "N/A",
+    "alter_preis": "1.79",
+    "einheit": "je 500-g-Packg.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00370726FR-1"
   },
   {
     "offer_id": "00479014",
@@ -5379,15 +5390,15 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01127191d"
   },
   {
-    "offer_id": "20754468_P_1231862",
+    "offer_id": "20728968_P_1131767",
     "gueltig_ab": "2025-10-09",
-    "marke": "BEBECONFORT",
-    "produkt": "Kinder-Sitzerhöhung »Gaia i-Fix«",
-    "preis": "29.99",
+    "marke": "BOSCH",
+    "produkt": "Küchenmaschine »MUMS2AW00«",
+    "preis": "89.99",
     "kcard_preis": "N/A",
-    "alter_preis": "UVP 49.99",
+    "alter_preis": "UVP 149.99",
     "einheit": "je",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20754468_P_1231862"
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20728968_P_1131767"
   },
   {
     "offer_id": "20855791_P_1631726",
@@ -5663,17 +5674,6 @@
     "alter_preis": "N/A",
     "einheit": "je",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/4066627535543_DE_V_3549-1"
-  },
-  {
-    "offer_id": "20728968_P_1131767",
-    "gueltig_ab": "2025-10-09",
-    "marke": "BOSCH",
-    "produkt": "Küchenmaschine »MUMS2AW00«",
-    "preis": "89.99",
-    "kcard_preis": "N/A",
-    "alter_preis": "N/A",
-    "einheit": "je",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20728968_P_1131767"
   },
   {
     "offer_id": "20860572_internet",
@@ -6345,6 +6345,17 @@
     "alter_preis": "N/A",
     "einheit": "je",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20772529_P_1292854"
+  },
+  {
+    "offer_id": "20754468_P_1231862",
+    "gueltig_ab": "2025-10-09",
+    "marke": "BEBECONFORT",
+    "produkt": "Kinder-Sitzerhöhung »Gaia i-Fix«",
+    "preis": "29.99",
+    "kcard_preis": "N/A",
+    "alter_preis": "UVP 49.99",
+    "einheit": "je",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20754468_P_1231862"
   },
   {
     "offer_id": "20708634_P_1077955",
