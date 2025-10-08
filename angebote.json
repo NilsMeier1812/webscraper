@@ -5049,6 +5049,17 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00949534FR-1"
   },
   {
+    "offer_id": "7613287054333_DE_P-1",
+    "gueltig_ab": "2025-10-09",
+    "marke": "MAGGI",
+    "produkt": "Fix, Airfryer oder Würzpaste",
+    "preis": "0.39",
+    "kcard_preis": "N/A",
+    "alter_preis": "1.09",
+    "einheit": "je 26 - 85-g-Beutel",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/7613287054333_DE_P-1"
+  },
+  {
     "offer_id": "7622202356797_DE_P-1",
     "gueltig_ab": "2025-10-09",
     "marke": "PHILADELPHIA",
@@ -5258,17 +5269,6 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01355623FR-1"
   },
   {
-    "offer_id": "02143089",
-    "gueltig_ab": "2025-10-09",
-    "marke": "METAXA",
-    "produkt": "5-Stern",
-    "preis": "10.99",
-    "kcard_preis": "N/A",
-    "alter_preis": "15.99",
-    "einheit": "je 0,7-l-Fl.",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/02143089"
-  },
-  {
     "offer_id": "00949534FR",
     "gueltig_ab": "2025-10-09",
     "marke": "Dtsch. Möhren",
@@ -5465,6 +5465,17 @@
     "alter_preis": "1.89",
     "einheit": "je 154 - 157-g-Packg.",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/7622300336738_DE_P-1"
+  },
+  {
+    "offer_id": "5000112546477_DE_P-1",
+    "gueltig_ab": "2025-10-09",
+    "marke": "COCA-COLA, FANTA,",
+    "produkt": "SPRITE oder MEZZO MIX Erfrischungsgetränk",
+    "preis": "1.11",
+    "kcard_preis": "0.99",
+    "alter_preis": "1.59",
+    "einheit": "je 1,25-l-PET-Fl.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/5000112546477_DE_P-1"
   },
   {
     "offer_id": "00972042",
@@ -7051,17 +7062,6 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/03813441"
   },
   {
-    "offer_id": "7613287054333_DE_P-1",
-    "gueltig_ab": "2025-10-09",
-    "marke": "MAGGI",
-    "produkt": "Fix, Airfryer oder Würzpaste",
-    "preis": "0.39",
-    "kcard_preis": "N/A",
-    "alter_preis": "N/A",
-    "einheit": "je 26 - 85-g-Beutel",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/7613287054333_DE_P-1"
-  },
-  {
     "offer_id": "20673165_P_1108082",
     "gueltig_ab": "2025-10-09",
     "marke": "K-BIO",
@@ -7134,7 +7134,7 @@
     "produkt": "Bio-Fruchtaufstrich",
     "preis": "2.99",
     "kcard_preis": "N/A",
-    "alter_preis": "N/A",
+    "alter_preis": "3.99",
     "einheit": "je 250 - 260-g-Glas",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01142846"
   },
@@ -7200,7 +7200,7 @@
     "produkt": "Rübenzucker",
     "preis": "0.69",
     "kcard_preis": "N/A",
-    "alter_preis": "0.89",
+    "alter_preis": "0.99",
     "einheit": "je 1-kg-Packg.",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01179781"
   },
@@ -7689,17 +7689,6 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20762626"
   },
   {
-    "offer_id": "5000112546477_DE_P-1",
-    "gueltig_ab": "2025-10-09",
-    "marke": "COCA-COLA, FANTA,",
-    "produkt": "SPRITE oder MEZZO MIX Erfrischungsgetränk",
-    "preis": "1.11",
-    "kcard_preis": "N/A",
-    "alter_preis": "1.59",
-    "einheit": "je 1,25-l-PET-Fl.",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/5000112546477_DE_P-1"
-  },
-  {
     "offer_id": "00979836",
     "gueltig_ab": "2025-10-09",
     "marke": "ALMDUDLER",
@@ -7775,6 +7764,17 @@
     "alter_preis": "10.99",
     "einheit": "je 0,7-l-Fl.",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/02203990"
+  },
+  {
+    "offer_id": "02143089",
+    "gueltig_ab": "2025-10-09",
+    "marke": "METAXA",
+    "produkt": "5-Stern",
+    "preis": "10.99",
+    "kcard_preis": "N/A",
+    "alter_preis": "15.99",
+    "einheit": "je 0,7-l-Fl.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/02143089"
   },
   {
     "offer_id": "082000789611_DE_P-1",
@@ -8052,7 +8052,7 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20620242"
   },
   {
-    "offer_id": "20737996",
+    "offer_id": "5000204356380_DE_P",
     "gueltig_ab": "2025-10-09",
     "marke": "GLADE",
     "produkt": "Duftkerze",
@@ -8060,7 +8060,7 @@
     "kcard_preis": "N/A",
     "alter_preis": "3.95",
     "einheit": "je 112-g-Stück",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20737996"
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/5000204356380_DE_P"
   },
   {
     "offer_id": "05036314_Multibuy",
@@ -9398,7 +9398,7 @@
     "gueltig_ab": "2025-10-10",
     "marke": "MÖVENPICK",
     "produkt": "Eis",
-    "preis": "1.66",
+    "preis": "1.59",
     "kcard_preis": "N/A",
     "alter_preis": "3.99",
     "einheit": "je 800 - 900-ml-Packg.",
@@ -9447,6 +9447,39 @@
     "alter_preis": "N/A",
     "einheit": "je 0,75-l-Fl.",
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01927060"
+  },
+  {
+    "offer_id": "01108420FR",
+    "gueltig_ab": "2025-10-10",
+    "marke": "Brasil./chin. Ingwer, lose",
+    "produkt": "",
+    "preis": "0.49*",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je 100 g",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01108420FR"
+  },
+  {
+    "offer_id": "00379602",
+    "gueltig_ab": "2025-10-10",
+    "marke": "Litau. Pfifferlinge",
+    "produkt": "",
+    "preis": "2.99*",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je 200-g-Packg.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00379602"
+  },
+  {
+    "offer_id": "01110090FRb-1",
+    "gueltig_ab": "2025-10-10",
+    "marke": "Span./marokk. Zucchini XXL",
+    "produkt": "",
+    "preis": "1.49*",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je 1-kg-Netz",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01110090FRb-1"
   },
   {
     "offer_id": "20854606",
@@ -9893,7 +9926,7 @@
     "gueltig_ab": "2025-10-13",
     "marke": "Span./marokk. Paprika, rot",
     "produkt": "",
-    "preis": "1.29",
+    "preis": "0.99",
     "kcard_preis": "N/A",
     "alter_preis": "1.59",
     "einheit": "je 500-g-Packg.",
