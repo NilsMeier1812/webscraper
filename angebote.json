@@ -572,6 +572,28 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20805954_internet"
   },
   {
+    "offer_id": "40081236_DE_P",
+    "gueltig_ab": "Heute",
+    "marke": "ORO DI PARMA",
+    "produkt": "Tomatenprodukt",
+    "preis": "0.99",
+    "kcard_preis": "N/A",
+    "alter_preis": "1.99",
+    "einheit": "je 200-g-Tube oder 400-g-Dose",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/40081236_DE_P"
+  },
+  {
+    "offer_id": "00911514",
+    "gueltig_ab": "Heute",
+    "marke": "DOPPIO PASSO",
+    "produkt": "Primitivo IGT oder Grillo DOC",
+    "preis": "4.79",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je 0,75-l-Fl.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00911514"
+  },
+  {
     "offer_id": "00991603a",
     "gueltig_ab": "Heute",
     "marke": "Dtsch. Speisekartoffeln",
@@ -1059,7 +1081,7 @@
     "offer_id": "00052803FR-1",
     "gueltig_ab": "Heute",
     "marke": "K-PURLAND",
-    "produkt": "Schweinerücken am Stück",
+    "produkt": "Schweinerücken",
     "preis": "5.49",
     "kcard_preis": "N/A",
     "alter_preis": "N/A",
@@ -4048,6 +4070,149 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/4066627540295_DE_P-1"
   },
   {
+    "offer_id": "00946350FR",
+    "gueltig_ab": "Heute",
+    "marke": "Marokk./ungar. Spitzpaprika, rot",
+    "produkt": "",
+    "preis": "1.49",
+    "kcard_preis": "N/A",
+    "alter_preis": "1.99",
+    "einheit": "je 500-g-Packg.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00946350FR"
+  },
+  {
+    "offer_id": "02811503",
+    "gueltig_ab": "Heute",
+    "marke": "FUNNY-FRISCH",
+    "produkt": "Knuspersnack",
+    "preis": "0.99",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je 75 - 100-g-Beutel",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/02811503"
+  },
+  {
+    "offer_id": "02424810",
+    "gueltig_ab": "Heute",
+    "marke": "JACOBS",
+    "produkt": "Gold",
+    "preis": "5.99",
+    "kcard_preis": "N/A",
+    "alter_preis": "10.99",
+    "einheit": "je 200-g-Glas",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/02424810"
+  },
+  {
+    "offer_id": "00370629FRa",
+    "gueltig_ab": "Heute",
+    "marke": "Südafrik. Orangen",
+    "produkt": "",
+    "preis": "2.49",
+    "kcard_preis": "N/A",
+    "alter_preis": "3.99",
+    "einheit": "je 2-kg-Netz",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00370629FRa"
+  },
+  {
+    "offer_id": "01125255_P_1495191",
+    "gueltig_ab": "Heute",
+    "marke": "K-CLASSIC",
+    "produkt": "Stremellachs",
+    "preis": "2.79",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je 125-g-Packg.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01125255_P_1495191"
+  },
+  {
+    "offer_id": "01090473a",
+    "gueltig_ab": "Heute",
+    "marke": "DASH",
+    "produkt": "Voll- oder Colorwaschmittel",
+    "preis": "7.99*",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01090473a"
+  },
+  {
+    "offer_id": "4006265000164_DE_P",
+    "gueltig_ab": "Heute",
+    "marke": "MEGGLE",
+    "produkt": "Schnitt- oder Hartkäse",
+    "preis": "1.29",
+    "kcard_preis": "N/A",
+    "alter_preis": "2.49",
+    "einheit": "je 125 - 150-g-Packg.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/4006265000164_DE_P"
+  },
+  {
+    "offer_id": "00052803FR",
+    "gueltig_ab": "Heute",
+    "marke": "K-PURLAND",
+    "produkt": "Schweinerücken XXL",
+    "preis": "5.39",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je kg",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00052803FR"
+  },
+  {
+    "offer_id": "20827885_P_1506562",
+    "gueltig_ab": "Heute",
+    "marke": "CLEANMAXX",
+    "produkt": "Akku-Zyklon-Staubsauger »14299«",
+    "preis": "49.99",
+    "kcard_preis": "N/A",
+    "alter_preis": "UVP 99.99",
+    "einheit": "je",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20827885_P_1506562"
+  },
+  {
+    "offer_id": "20692726_P_1076175",
+    "gueltig_ab": "Heute",
+    "marke": "SWITCH ON®",
+    "produkt": "Wasserkocher »SWGF 3000 C2«",
+    "preis": "12.99",
+    "kcard_preis": "N/A",
+    "alter_preis": "N/A",
+    "einheit": "je",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20692726_P_1076175"
+  },
+  {
+    "offer_id": "01110090FRb",
+    "gueltig_ab": "Heute",
+    "marke": "Dtsch./span. Zucchini, lose",
+    "produkt": "",
+    "preis": "1.29",
+    "kcard_preis": "N/A",
+    "alter_preis": "1.79",
+    "einheit": "je kg",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01110090FRb"
+  },
+  {
+    "offer_id": "00397950FRa",
+    "gueltig_ab": "Heute",
+    "marke": "Span. Aubergine, lose",
+    "produkt": "",
+    "preis": "1.49",
+    "kcard_preis": "N/A",
+    "alter_preis": "2.99",
+    "einheit": "je kg",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00397950FRa"
+  },
+  {
+    "offer_id": "00889111FR-1",
+    "gueltig_ab": "Heute",
+    "marke": "Span./marokk. Snackgurken",
+    "produkt": "",
+    "preis": "1.29",
+    "kcard_preis": "N/A",
+    "alter_preis": "1.99",
+    "einheit": "je 250-g-Packg.",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00889111FR-1"
+  },
+  {
     "offer_id": "01537543FR-36",
     "gueltig_ab": "Heute",
     "marke": "Speisekartoffeln vom Kartoffelhof Buhne-Lackhove aus Warendorf",
@@ -4059,169 +4224,15 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01537543FR-36"
   },
   {
-    "offer_id": "40081236_DE_P",
-    "gueltig_ab": "2025-10-17",
-    "marke": "ORO DI PARMA",
-    "produkt": "Tomatenprodukt",
-    "preis": "0.99",
-    "kcard_preis": "N/A",
-    "alter_preis": "1.99",
-    "einheit": "je 200-g-Tube oder 400-g-Dose",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/40081236_DE_P"
-  },
-  {
-    "offer_id": "00911514",
-    "gueltig_ab": "2025-10-17",
-    "marke": "DOPPIO PASSO",
-    "produkt": "Primitivo IGT oder Grillo DOC",
-    "preis": "4.79",
-    "kcard_preis": "N/A",
-    "alter_preis": "N/A",
-    "einheit": "je 0,75-l-Fl.",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00911514"
-  },
-  {
-    "offer_id": "00946350FR",
-    "gueltig_ab": "2025-10-17",
-    "marke": "Marokk./ungar. Spitzpaprika, rot",
+    "offer_id": "01543529FR-3",
+    "gueltig_ab": "Heute",
+    "marke": "Poln./kroat. Kulturchampignons, weiß",
     "produkt": "",
-    "preis": "1.49",
-    "kcard_preis": "N/A",
-    "alter_preis": "1.99",
-    "einheit": "je 500-g-Packg.",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00946350FR"
-  },
-  {
-    "offer_id": "02811503",
-    "gueltig_ab": "2025-10-17",
-    "marke": "FUNNY-FRISCH",
-    "produkt": "Knuspersnack",
-    "preis": "0.99",
+    "preis": "0.99*",
     "kcard_preis": "N/A",
     "alter_preis": "N/A",
-    "einheit": "je 75 - 100-g-Beutel",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/02811503"
-  },
-  {
-    "offer_id": "02424810",
-    "gueltig_ab": "2025-10-17",
-    "marke": "JACOBS",
-    "produkt": "Gold",
-    "preis": "5.99",
-    "kcard_preis": "N/A",
-    "alter_preis": "10.99",
-    "einheit": "je 200-g-Glas",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/02424810"
-  },
-  {
-    "offer_id": "00370629FRa",
-    "gueltig_ab": "2025-10-17",
-    "marke": "Südafrik. Orangen",
-    "produkt": "",
-    "preis": "2.49",
-    "kcard_preis": "N/A",
-    "alter_preis": "3.99",
-    "einheit": "je 2-kg-Netz",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00370629FRa"
-  },
-  {
-    "offer_id": "01125255_P_1495191",
-    "gueltig_ab": "2025-10-17",
-    "marke": "K-CLASSIC",
-    "produkt": "Stremellachs",
-    "preis": "2.79",
-    "kcard_preis": "N/A",
-    "alter_preis": "N/A",
-    "einheit": "je 125-g-Packg.",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01125255_P_1495191"
-  },
-  {
-    "offer_id": "01090473a",
-    "gueltig_ab": "2025-10-17",
-    "marke": "DASH",
-    "produkt": "Voll- oder Colorwaschmittel",
-    "preis": "7.99*",
-    "kcard_preis": "N/A",
-    "alter_preis": "N/A",
-    "einheit": "je",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01090473a"
-  },
-  {
-    "offer_id": "4006265000164_DE_P",
-    "gueltig_ab": "2025-10-17",
-    "marke": "MEGGLE",
-    "produkt": "Schnitt- oder Hartkäse",
-    "preis": "1.29",
-    "kcard_preis": "N/A",
-    "alter_preis": "2.49",
-    "einheit": "je 125 - 150-g-Packg.",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/4006265000164_DE_P"
-  },
-  {
-    "offer_id": "00052803FR",
-    "gueltig_ab": "2025-10-17",
-    "marke": "K-PURLAND",
-    "produkt": "Schweinerücken XXL",
-    "preis": "5.39",
-    "kcard_preis": "N/A",
-    "alter_preis": "N/A",
-    "einheit": "je kg",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00052803FR"
-  },
-  {
-    "offer_id": "20827885_P_1506562",
-    "gueltig_ab": "2025-10-17",
-    "marke": "CLEANMAXX",
-    "produkt": "Akku-Zyklon-Staubsauger »14299«",
-    "preis": "49.99",
-    "kcard_preis": "N/A",
-    "alter_preis": "UVP 99.99",
-    "einheit": "je",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20827885_P_1506562"
-  },
-  {
-    "offer_id": "20692726_P_1076175",
-    "gueltig_ab": "2025-10-17",
-    "marke": "SWITCH ON®",
-    "produkt": "Wasserkocher »SWGF 3000 C2«",
-    "preis": "12.99",
-    "kcard_preis": "N/A",
-    "alter_preis": "N/A",
-    "einheit": "je",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/20692726_P_1076175"
-  },
-  {
-    "offer_id": "01110090FRb",
-    "gueltig_ab": "2025-10-17",
-    "marke": "Dtsch./span. Zucchini, lose",
-    "produkt": "",
-    "preis": "1.29",
-    "kcard_preis": "N/A",
-    "alter_preis": "1.79",
-    "einheit": "je kg",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01110090FRb"
-  },
-  {
-    "offer_id": "00397950FRa",
-    "gueltig_ab": "2025-10-17",
-    "marke": "Span. Aubergine, lose",
-    "produkt": "",
-    "preis": "1.49",
-    "kcard_preis": "N/A",
-    "alter_preis": "2.99",
-    "einheit": "je kg",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00397950FRa"
-  },
-  {
-    "offer_id": "00889111FR-1",
-    "gueltig_ab": "2025-10-17",
-    "marke": "Span./marokk. Snackgurken",
-    "produkt": "",
-    "preis": "1.29",
-    "kcard_preis": "N/A",
-    "alter_preis": "1.99",
-    "einheit": "je 250-g-Packg.",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/00889111FR-1"
+    "einheit": "je 250-g-Schale",
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01543529FR-3"
   },
   {
     "offer_id": "00421123a",
@@ -4785,7 +4796,7 @@
     "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01390206_P_374527"
   },
   {
-    "offer_id": "9010041029251_DE_P",
+    "offer_id": "01415081_P_432258-1",
     "gueltig_ab": "2025-10-23",
     "marke": "LIVINGTON",
     "produkt": "Bratpfanne Ø 28 cm »Copper & Stone Pan«",
@@ -4793,7 +4804,7 @@
     "kcard_preis": "N/A",
     "alter_preis": "UVP 79.90",
     "einheit": "je",
-    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/9010041029251_DE_P"
+    "bild_url": "https://kaufland.media.schwarz/is/image/schwarz/01415081_P_432258-1"
   },
   {
     "offer_id": "01263129_V_329247-1",
